@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Nam Vien",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.9819067 0.2565727 0.2536001 0.2375964 0.4725669 0.8136498 0.3642142\n [8] 0.5148206 0.8194963 0.4410375"
   },
   {
     "objectID": "index.html",
