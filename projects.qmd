@@ -15,34 +15,3 @@
 
 ## My Projects
 
-::: {.grid}
-
-::: {.g-col-6}
-![Project 1 Thumbnail](path/to/image1.jpg){.img-thumbnail}
-### Project 1
-[Project 1](projects/Project1.qmd)  
-A brief description of your first project. Highlight key features or outcomes.
-:::
-
-::: {.g-col-6}
-![Project 2 Thumbnail](path/to/image2.jpg){.img-thumbnail}
-### Project 2
-[Project 2](projects/Project2.qmd)  
-A brief description of your second project. Highlight key features or outcomes.
-:::
-
-::: {.g-col-6}
-![Project 3 Thumbnail](path/to/image3.jpg){.img-thumbnail}
-### Project 3
-[Project 3](projects/Project3.qmd)  
-A brief description of your third project. Highlight key features or outcomes.
-:::
-
-::: {.g-col-6}
-![Project 4 Thumbnail](path/to/image4.jpg){.img-thumbnail}
-### Project 4
-[Project 4](projects/Project4.qmd)  
-A brief description of your fourth project. Highlight key features or outcomes.
-:::
-
-:::
