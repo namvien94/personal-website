@@ -58,3 +58,44 @@ title: "About"
 ### Let’s Connect!
 Feel free to reach out to me on [LinkedIn](http://www.linkedin.com/in/namvien){target="_blank"} or explore my projects on [GitHub](https://github.com/namvien94?tab=repositories){target="_blank"}.  
 I am always open to discussing innovative ideas, collaborations, or career opportunities!
+
+### Photo Gallery
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
+::: {.grid .grid-cols-3 .gap-4}
+
+::: {.g-col}
+[![Ha Long Bay, Vietnam](IMG_0917.jpeg)](IMG_0917.jpeg){target="_blank" data-lightbox="gallery" data-title="Ha Long Bay, Vietnam"}
+:::
+
+::: {.g-col}
+[![Washington Monument](IMG_4824.jpeg)](IMG_4824.jpeg){target="_blank" data-lightbox="gallery" data-title="Washington Monument"}
+:::
+
+::: {.g-col}
+[![Fanxipan, Vietnam](IMG_0312.jpeg)](IMG_0312.jpeg){target="_blank" data-lightbox="gallery" data-title="Fanxipan, Vietnam"}
+:::
+
+::: {.g-col}
+[![Glass Bridge, Sapa, Vietnam](IMG_0528.jpeg)](IMG_0528.jpeg){target="_blank" data-lightbox="gallery" data-title="Glass Bridge in Sapa, Vietnam"}
+:::
+
+::: {.g-col}
+[![Mekong Delta, Vietnam](IMG_1315.jpeg)](IMG_1315.jpeg){target="_blank" data-lightbox="gallery" data-title="Mekong Delta, Vietnam"}
+:::
+
+::: {.g-col}
+[![Celebrating U.S. Citizenship](IMG_2991.jpeg)](IMG_2991.jpeg){target="_blank" data-lightbox="gallery" data-title="Celebrating U.S. Citizenship"}
+:::
+
+::: {.g-col}
+[![Lake Tahoe, CA-NV](IMG_0501.jpeg)](IMG_0501.jpeg){target="_blank" data-lightbox="gallery" data-title="Lake Tahoe, CA-NV"}
+:::
+
+::: {.g-col}
+[![UPenn, PA](IMG_2052.JPG)](IMG_2052.JPG){target="_blank" data-lightbox="gallery" data-title="UPenn, PA"}
+:::
+
+:::
