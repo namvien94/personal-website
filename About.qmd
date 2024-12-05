@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-|                                 	| Yes 	| No 	| Negotiation 	|
+| Nam Vien                          | Yes 	| No 	| Negotiation 	|
 |---------------------------------	|:---:	|:--:	|-------------	|
 | U.S. Citizen                    	|  ✓   	|    	|             	|
 | Authorized to work in the U.S.  	|  ✓   	|    	|             	|
