@@ -17,10 +17,12 @@ title: "About"
 
   
 ### Background
-- **Proud first-generation transfer college student**, originally from Vietnam, now based in Orange County, California.
+- **Proud first-generation transfer college student**, originally from Vietnam,  
+  now based in Los Angeles - Orange County, California, USA.
 - **Languages**: 
   - Fluent in Vietnamese and Cantonese, in addition to English. 
   - Completed coursework in American Sign Language during sophomore year.
+  - Programming proficiency: Python, R, and SQL.
 
 ### Hobbies and Interests
 - **Passion for traveling**, exploring new cuisines, and photography.
@@ -67,10 +69,6 @@ I am always open to discussing innovative ideas, collaborations, or career oppor
 ::: {.grid .grid-cols-3 .gap-4}
 
 ::: {.g-col}
-[![Ha Long Bay, Vietnam](IMG_0917.jpeg)](IMG_0917.jpeg){target="_blank" data-lightbox="gallery" data-title="Ha Long Bay, Vietnam"}
-:::
-
-::: {.g-col}
 [![Washington Monument](IMG_4824.jpeg)](IMG_4824.jpeg){target="_blank" data-lightbox="gallery" data-title="Washington Monument"}
 :::
 
@@ -83,11 +81,7 @@ I am always open to discussing innovative ideas, collaborations, or career oppor
 :::
 
 ::: {.g-col}
-[![Mekong Delta, Vietnam](IMG_1315.jpeg)](IMG_1315.jpeg){target="_blank" data-lightbox="gallery" data-title="Mekong Delta, Vietnam"}
-:::
-
-::: {.g-col}
-[![Celebrating U.S. Citizenship](IMG_2991.jpeg)](IMG_2991.jpeg){target="_blank" data-lightbox="gallery" data-title="Celebrating U.S. Citizenship"}
+[![Ha Long Bay, Vietnam](IMG_0917.jpeg)](IMG_0917.jpeg){target="_blank" data-lightbox="gallery" data-title="Ha Long Bay, Vietnam"}
 :::
 
 ::: {.g-col}
@@ -96,6 +90,14 @@ I am always open to discussing innovative ideas, collaborations, or career oppor
 
 ::: {.g-col}
 [![UPenn, PA](IMG_2052.JPG)](IMG_2052.JPG){target="_blank" data-lightbox="gallery" data-title="UPenn, PA"}
+:::
+
+::: {.g-col}
+[![Mekong Delta, Vietnam](IMG_1315.jpeg)](IMG_1315.jpeg){target="_blank" data-lightbox="gallery" data-title="Mekong Delta, Vietnam"}
+:::
+
+::: {.g-col}
+[![Celebrating U.S. Citizenship](IMG_2991.jpeg)](IMG_2991.jpeg){target="_blank" data-lightbox="gallery" data-title="Celebrating U.S. Citizenship"}
 :::
 
 :::
