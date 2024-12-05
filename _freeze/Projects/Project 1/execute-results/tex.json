@@ -1,0 +1,15 @@
+{
+  "hash": "b9cdd2d1445e823805fc720d92e8e6cd",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Untitled\"\nformat: pdf\neditor: visual\n---\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 2\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 3\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": null,
+    "postProcess": false
+  }
+}

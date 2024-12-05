@@ -1,11 +1,60 @@
 ---
-title: "personal website"
+title: "Nam Vien"
 ---
 
-This is a Quarto website.
+---
+title: "Nam Vien"
+about:
+  template: trestles
+  image: namvien.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/namvien
+    - icon: github
+      text: Github
+      href: https://github.com/namvien94
+    - text: Email
+      url: "mailto:nam_vien@yahoo.com"
+      icon: inbox-fill
+    - text: Résume
+      href: "Resume.pdf"
+comments: false
+toc: false
+---
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Nam Vien is a senior at UCLA majoring in **Statistics and Data Science**, focusing on turning complex data into **actionable insights**.\
+With a strong foundation in **statistical analysis, machine learning, and data visualization**, Nam is driven to solve real-world problems and deliver **measurable impact**.\
+Nam is **actively seeking opportunities** to contribute to innovative, data-driven projects, leveraging his achievements and strong **teamwork** skills to bring value to your organization.
 
-```{r}
-1 + 3
-```
+Nam is *authorized to work* in the United States and\
+does *not require sponsorship.*
+
+## Education
+
+University of California, Los Angeles\
+B.S. in [Statistics and Data Science](https://statistics.ucla.edu/index.php/academics/undergraduate/statistics-major-worksheets/){target="_blank"} \| June 2025\
+Minor in Digital Humanities \| June 2025
+
+Cornell University\
+[Machine Learning Foundations E-certificate](Nam%20Vien%20ML%20Foundations%20Certificate.pdf){target="_blank"} \|\
+May 2024 - August 2024
+
+## Experience
+
+Evaluation Assistant \| [UCLA Undergraduate Admission](https://admission.ucla.edu/contact){target="_blank"} \| February 2024 - Present
+
+AI/ML Studio Fellow \| [Saciva](https://www.linkedin.com/pulse/finding-housing-international-student-usa-abhishikth-m-yvlqc/){target="_blank"} \|\
+August 2024 - December 2024
+
+## Leadership
+
+[Break Through Tech AI Fellow](https://www.breakthroughtech.org/programs/the-ai-program/){target="_blank"} \| Cornell University x UCLA \|\
+May 2024 - May 2025
+
+[Data Justice Scholar](https://communityengagement.ucla.edu/programs/data-justice-scholars-program/){target="_blank"} \|\
+UCLA Center for Community Engagement \|\
+September 2024 - May 2025
+
+[DEEPenn STEM Scholar](https://web.sas.upenn.edu/deepennstem/){target="_blank"} \| University of Pennsylvania \|\
+October 2024

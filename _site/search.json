@@ -1,16 +1,121 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "coursework.html",
+    "href": "coursework.html",
+    "title": "Coursework",
+    "section": "",
+    "text": "Term\nCourses\nSyllabus\n\n\n\n\nFall 2023\nMATH 115A - Linear Algebra\nView Syllabus\n\n\nFall 2023\nDH 101 - Introduction to Digital Humanities\nView Syllabus\n\n\nWinter 2024\nMATH 106 - History of Mathematics\nView Syllabus\n\n\nWinter 2024\nSTATS 20 - Introduction to Statistical Programming with R\nView Syllabus\n\n\nWinter 2024\nSTATS 100A - Introduction to Probability\nView Syllabus\n\n\nSpring 2024\nSTATS 101A - Introduction to Data Analysis and Regression\nView Syllabus\n\n\nSpring 2024\nMATH 170S - Introduction to Probability and Statistics 2: Statistics\nView Syllabus\n\n\nSummer 2024\nSTATS 101B - Introduction to Design and Analysis of Experiment\nView Syllabus\n\n\nSummer 2024\nSTATS 102A - Introduction to Computational Statistics with R\nView Syllabus\n\n\nSummer 2024\nSTATS 102B - Introduction to Computation and Optimization for Statistics\nView Syllabus\n\n\nFall 2024\nSTATS 101C - Introduction to Statistical Models and Data Mining\nView Syllabus\n\n\nFall 2024\nSTATS 102C - Introduction to Monte Carlo Methods\nView Syllabus\n\n\nFall 2024\nSTATS 140XP - Practice of Statistical Consulting\nView Syllabus\n\n\nFall 2024\nDH M121 - Race, Gender, and Data\nView Syllabus"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
     "title": "Nam Vien",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.9819067 0.2565727 0.2536001 0.2375964 0.4725669 0.8136498 0.3642142\n [8] 0.5148206 0.8194963 0.4410375"
+    "text": "Here is my project 1"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Nam Vien",
+    "section": "",
+    "text": "Here is my project 1"
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "Nam Vien",
+    "section": "Project 2",
+    "text": "Project 2"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal website",
+    "title": "Nam Vien",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 3\n\n[1] 4"
+    "text": "Nam Vien is a senior at UCLA majoring in Statistics and Data Science, focusing on turning complex data into actionable insights.\nWith a strong foundation in statistical analysis, machine learning, and data visualization, Nam is driven to solve real-world problems and deliver measurable impact.\nNam is actively seeking opportunities to contribute to innovative, data-driven projects, leveraging his achievements and strong teamwork skills to bring value to your organization.\nNam is authorized to work in the United States and\ndoes not require sponsorship."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Nam Vien",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles\nB.S. in Statistics and Data Science | June 2025\nMinor in Digital Humanities | June 2025\nCornell University\nMachine Learning Foundations E-certificate |\nMay 2024 - August 2024"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Nam Vien",
+    "section": "Experience",
+    "text": "Experience\nEvaluation Assistant | UCLA Undergraduate Admission | February 2024 - Present\nAI/ML Studio Fellow | Saciva |\nAugust 2024 - December 2024"
+  },
+  {
+    "objectID": "index.html#leadership",
+    "href": "index.html#leadership",
+    "title": "Nam Vien",
+    "section": "Leadership",
+    "text": "Leadership\nBreak Through Tech AI Fellow | Cornell University x UCLA |\nMay 2024 - May 2025\nData Justice Scholar |\nUCLA Center for Community Engagement |\nSeptember 2024 - May 2025\nDEEPenn STEM Scholar | University of Pennsylvania |\nOctober 2024"
+  },
+  {
+    "objectID": "About.html",
+    "href": "About.html",
+    "title": "About",
+    "section": "",
+    "text": "Yes\nNo\nNegotiation\n\n\n\n\nU.S. Citizen\n✓\n\n\n\n\nAuthorized to work in the U.S.\n✓\n\n\n\n\nRelocation for work\n\n\n✓\n\n\nWilling to travel for work\n✓\n\n\n\n\nOn-site/Hybrid/Remote\n✓\n\n\n\n\nFull-time/Part-time\n✓\n\n\n\n\nInternship/Research Opportunity\n✓\n\n\n\n\nU.S. military veteran\n\n✗\n\n\n\nHaving a disability\n\n✗\n\n\n\nFelony or misdemeanor\n\n✗\n\n\n\n\n\nBackground\n\nProud first-generation transfer college student, originally from Vietnam, now based in Orange County, California.\nLanguages:\n\nFluent in Vietnamese and Cantonese, in addition to English.\nCompleted coursework in American Sign Language during sophomore year.\n\n\n\n\nHobbies and Interests\n\nPassion for traveling, exploring new cuisines, and photography.\nEnjoys cooking favorite dishes, window shopping, and hunting for great deals.\n\n\n\nFavorite Things\n\nHolidays: Christmas and Lunar New Year.\nBeverages: Both coffee and tea.\nDesserts: Prefers pies over cakes; favorite ice cream flavor is chocolate mint and a big fan of matcha green tea.\n\n\n\nProfessional Relevance\n\nAcademic and Career Focus:\n\nPassionate about leveraging AI/ML to solve real-world challenges through innovative, data-driven solutions.\n\nCurrently studying Statistics and Data Science at UCLA with a Minor in Digital Humanities, combining technical expertise with an interest in addressing social issues through data.\n\n\n\n\nKey Projects and Experiences\n\nSaciva: Enhancing International Student Support\n\nOverview: Designed and implemented a university clustering model using geographic proximity data to assist over 1 million international students annually.\nClustering Approach: Used advanced algorithms like DBSCAN to group universities based on commute distances, creating intuitive, location-based networks for housing and roommate matching.\nProfiles and Insights: Enhanced user experience by providing region-specific profiles that include cost of living, climate, and safety metrics, empowering students to make informed decisions.\nImpact: Replaced manual filtering with cluster-based recommendations, reducing decision fatigue and increasing resource accessibility.\n\n\n\n\nTravel Experience\n\nFavorite Travel Memory: Growing up in Vietnam, I developed a deep appreciation for its cultural richness, vibrant street markets, and stunning landscapes, which I loved capturing through photography.\n\nAustralia Connection: Visiting family in Australia gave me the chance to explore its diverse natural beauty and urban charm, further inspiring my passion for travel and photography.\n\n\n\nValues\n\nCultural Diversity and Inclusion:\n\nCommitted to celebrating and promoting cultural diversity and inclusion, as demonstrated through my work with Saciva and the Data Justice Scholars program.\n\nThese projects emphasize fostering equitable access to resources for international students and addressing social justice issues through data analysis.\n\n\nSupport for Underserved Communities:\n\nPassionate about uplifting underserved communities, including people of color, immigrants, and low-income families.\n\nI strive to create innovative, data-driven solutions that address social inequities and empower these groups to achieve greater opportunities and success.\n\n\n\n\nLet’s Connect!\nFeel free to reach out to me on LinkedIn or explore my projects on GitHub.\nI am always open to discussing innovative ideas, collaborations, or career opportunities!"
+  },
+  {
+    "objectID": "About.html#background",
+    "href": "About.html#background",
+    "title": "About",
+    "section": "Background",
+    "text": "Background\n\nProud first-generation college student and transfer student, originally from Vietnam, now based in Orange County, California.\nLanguages: Fluent in Vietnamese and Cantonese, in addition to English. Completed coursework in American Sign Language during sophomore year."
+  },
+  {
+    "objectID": "About.html#hobbies-and-interests",
+    "href": "About.html#hobbies-and-interests",
+    "title": "About",
+    "section": "Hobbies and Interests",
+    "text": "Hobbies and Interests\n\nPassion for traveling, exploring new cuisines, and photography.\nEnjoys cooking favorite dishes, window shopping, and hunting for great deals."
+  },
+  {
+    "objectID": "About.html#favorite-things",
+    "href": "About.html#favorite-things",
+    "title": "About",
+    "section": "Favorite Things",
+    "text": "Favorite Things\n\nHolidays: Christmas and Lunar New Year.\nBeverages: Both coffee and tea.\nDesserts: Prefers pies over cakes; favorite ice cream flavor is chocolate mint and a big fan of matcha green tea."
+  },
+  {
+    "objectID": "About.html#professional-relevance",
+    "href": "About.html#professional-relevance",
+    "title": "About",
+    "section": "Professional Relevance",
+    "text": "Professional Relevance\n\nAcademic and Career Focus: Passionate about leveraging AI/ML to solve real-world challenges through innovative, data-driven solutions.\nCurrently studying Statistics and Data Science at UCLA with a Minor in Digital Humanities, combining technical expertise with an interest in addressing social issues through data."
+  },
+  {
+    "objectID": "About.html#key-projects-and-experiences",
+    "href": "About.html#key-projects-and-experiences",
+    "title": "About",
+    "section": "Key Projects and Experiences",
+    "text": "Key Projects and Experiences\n\nSaciva: Enhancing International Student Support\n\nOverview: Designed and implemented a university clustering model using geographic proximity data to assist over 1 million international students annually.\nClustering Approach: Used advanced algorithms like DBSCAN to group universities based on commute distances, creating intuitive, location-based networks for housing and roommate matching.\nProfiles and Insights: Enhanced user experience by providing region-specific profiles that include cost of living, climate, and safety metrics, empowering students to make informed decisions.\nImpact: Replaced manual filtering with cluster-based recommendations, reducing decision fatigue and increasing resource accessibility."
+  },
+  {
+    "objectID": "About.html#unique-travel-focus",
+    "href": "About.html#unique-travel-focus",
+    "title": "About",
+    "section": "Unique Travel Focus",
+    "text": "Unique Travel Focus\n\nFavorite Travel Memory: Growing up in Vietnam, I developed a deep appreciation for its cultural richness, vibrant street markets, and stunning landscapes, which I loved capturing through photography.\nAustralia Connection: Visiting family in Australia gave me the chance to explore its diverse natural beauty and urban charm, further inspiring my passion for travel and photography."
+  },
+  {
+    "objectID": "About.html#values",
+    "href": "About.html#values",
+    "title": "About",
+    "section": "Values",
+    "text": "Values\n\nCultural Diversity and Inclusion: Committed to celebrating and promoting cultural diversity and inclusion, as demonstrated through my work with Saciva and the Data Justice Scholars program.\nThese projects emphasize fostering equitable access to resources for international students and addressing social justice issues through data analysis.\nSupport for Underserved Communities: Passionate about uplifting underserved communities, including people of color, immigrants, and low-income families.\nI strive to create innovative, data-driven solutions that address social inequities and empower these groups to achieve greater opportunities and success."
+  },
+  {
+    "objectID": "About.html#lets-connect",
+    "href": "About.html#lets-connect",
+    "title": "About",
+    "section": "Let’s Connect!",
+    "text": "Let’s Connect!\nFeel free to reach out to me on LinkedIn or explore my projects on GitHub.\nI am always open to discussing innovative ideas, collaborations, or career opportunities!"
   }
 ]

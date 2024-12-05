@@ -1,0 +1,23 @@
+---
+  toc: false
+  # listing:
+  #   - id: notes-listing
+  #   contents:
+  #     - "/notes/*.qmd"
+  #   sort: false
+  #   sort-ui: false
+  #   filter-ui: true
+  #   type: table
+  #   fields:
+  #     - title
+  #   categories: false
+---
+
+## Project 1
+
+Here is my [project 1](/projects/Project 1.qmd)
+
+## Project 2 
+
+<!-- :::notes-listing -->
+<!-- ::: -->

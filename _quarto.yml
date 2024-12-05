@@ -7,8 +7,15 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: about.qmd
+      - href: About.qmd
         text: About
+      - href: projects.qmd
+        text: Projects
+      - href: coursework.qmd
+        text: Coursework  
+
+  page-footer:
+    right: "&copy; 2024, Nam Vien"
 
 format:
   html:
@@ -16,5 +23,7 @@ format:
     css: styles.css
     toc: true
 
-
+execute: 
+  freeze: auto
+  
 

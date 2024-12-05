@@ -1,0 +1,15 @@
+{
+  "hash": "8d000c9450ea66eef92f67d0c7644d7f",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"About\"\ntoc: true\n---\n\n\n\nAbout this site\n\n## Heading 1\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\n### Heading 2\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrunif(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1] 0.3768689 0.9920029 0.7417634 0.7633268 0.8577723 0.4836646 0.9556993\n [8] 0.1555413 0.1523684 0.2781403\n```\n\n\n:::\n:::\n\n\n\n\n## Heading 2 ",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

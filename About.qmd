@@ -1,0 +1,60 @@
+---
+title: "About"
+---
+
+|                                 	| Yes 	| No 	| Negotiation 	|
+|---------------------------------	|:---:	|:--:	|-------------	|
+| U.S. Citizen                    	|  ✓   	|    	|             	|
+| Authorized to work in the U.S.  	|  ✓   	|    	|             	|
+| Relocation for work               |     	|    	|   ✓          	|
+| Willing to travel for work      	|  ✓   	|    	|             	|
+| On-site/Hybrid/Remote           	|  ✓   	|    	|             	|
+| Full-time/Part-time             	|  ✓   	|    	|             	|
+| Internship/Research Opportunity 	|  ✓   	|    	|             	|
+| U.S. military veteran           	|     	|✗    	|             	|
+| Having a disability             	|     	|✗    	|             	|
+| Felony or misdemeanor             |     	|✗    	|             	|
+
+  
+### Background
+- **Proud first-generation transfer college student**, originally from Vietnam, now based in Orange County, California.
+- **Languages**: 
+  - Fluent in Vietnamese and Cantonese, in addition to English. 
+  - Completed coursework in American Sign Language during sophomore year.
+
+### Hobbies and Interests
+- **Passion for traveling**, exploring new cuisines, and photography.
+- Enjoys **cooking favorite dishes**, window shopping, and hunting for great deals.
+
+### Favorite Things
+- **Holidays**: Christmas and Lunar New Year.
+- **Beverages**: Both coffee and tea.
+- **Desserts**: Prefers pies over cakes; favorite ice cream flavor is chocolate mint and a big fan of matcha green tea.
+
+### Professional Relevance
+- **Academic and Career Focus**: 
+  - Passionate about leveraging AI/ML to solve real-world challenges through innovative, data-driven solutions.  
+  - Currently studying Statistics and Data Science at UCLA with a Minor in Digital Humanities, combining technical expertise with an interest in addressing social issues through data.
+
+### Key Projects and Experiences
+#### **Saciva**: Enhancing International Student Support
+- **Overview**: Designed and implemented a university clustering model using geographic proximity data to assist over 1 million international students annually.
+- **Clustering Approach**: Used advanced algorithms like DBSCAN to group universities based on commute distances, creating intuitive, location-based networks for housing and roommate matching.
+- **Profiles and Insights**: Enhanced user experience by providing region-specific profiles that include cost of living, climate, and safety metrics, empowering students to make informed decisions.
+- **Impact**: Replaced manual filtering with cluster-based recommendations, reducing decision fatigue and increasing resource accessibility.
+
+### Travel Experience
+- **Favorite Travel Memory**: Growing up in Vietnam, I developed a deep appreciation for its cultural richness, vibrant street markets, and stunning landscapes, which I loved capturing through photography. \
+- **Australia Connection**: Visiting family in Australia gave me the chance to explore its diverse natural beauty and urban charm, further inspiring my passion for travel and photography.
+
+### Values
+- **Cultural Diversity and Inclusion**: 
+  - Committed to celebrating and promoting cultural diversity and inclusion, as demonstrated through my work with Saciva and the Data Justice Scholars program.  
+  - These projects emphasize fostering equitable access to resources for international students and addressing social justice issues through data analysis. \
+- **Support for Underserved Communities**: 
+  - Passionate about uplifting underserved communities, including people of color, immigrants, and low-income families.  
+  - I strive to create innovative, data-driven solutions that address social inequities and empower these groups to achieve greater opportunities and success.
+
+### Let’s Connect!
+Feel free to reach out to me on [LinkedIn](http://www.linkedin.com/in/namvien){target="_blank"} or explore my projects on [GitHub](https://github.com/namvien94?tab=repositories){target="_blank"}.  
+I am always open to discussing innovative ideas, collaborations, or career opportunities!
