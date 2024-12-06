@@ -19,6 +19,10 @@ about:
       icon: inbox-fill
     - text: Résume
       href: "Resume.pdf"
+      icon: file-text-fill
+    - text: Schedule a Meeting
+      href: "https://calendly.com/nam_vien/30min"
+      icon: calendar-fill
 comments: false
 toc: false
 ---

@@ -5,6 +5,7 @@ listing:
     contents:
     - "projects/Project 1/Project 1.qmd"
     - "projects/Project 2/Project 2.qmd"
+    - "projects/Project 3/Project 3.qmd"
     type: grid
     sort: false
     sort-ui: true

@@ -1,0 +1,43 @@
+---
+title: "Project 3 - Unhoused Individuals in Los Angeles County"
+author: "Nam Vien"
+date: "12/05/2024"
+description: "This project analyzes trends in homelessness across Los Angeles neighborhoods from 2017 to 2022, focusing on disparities by demographics and resource allocation."
+image: "unhouse.jpg"
+categories: [Group, Homelessness, Social Impact]
+format: html
+python:
+  python-path: /Users/namvien/.virtualenvs/r-reticulate/bin/python
+---
+
+## Summary
+
+**Introduction:**
+This project investigates the demographic and geographic trends of homelessness in Los Angeles County, emphasizing service disparities and influencing factors.
+
+**Process:**
+
+- **Data Collection:**
+  - Utilized datasets from the California Interagency Council on Homelessness (Cal ICH) and Los Angeles Homeless Services Authority (LAHSA).
+  - Merged datasets to analyze trends by race, gender, and geography.
+- **Data Cleaning & Aggregation:**
+  - Processed raw data for consistency, removed incomplete records, and combined multiple sources.
+- **Analysis & Visualization:**
+  - Conducted geospatial analysis using Folium for mapping homelessness distribution.
+  - Created visualizations like bar charts and demographic distribution graphs.
+- **Collaboration:**
+  - Worked in a team, leveraging individual strengths and discussing findings in the context of policy impacts.
+
+**Outcome:**
+
+- Highlighted downtown Los Angeles as the area with the highest homelessness count.  
+- Revealed significant disparities in homelessness rates across racial and gender demographics.  
+- Demonstrated the effectiveness of visualization tools in identifying trends and guiding resource allocation policies.
+
+## Project Outputs
+
+<iframe src="UnhouseLA.html" width="100%" height="900" style="border:none;"></iframe>
+
+## Supporting Documents
+
+[Download or view the PDF](Unhoused Group Presentation.pdf){target="_blank"}
