@@ -1,0 +1,35 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "<iframe src=\"NamVien_STATS101A_FinalProject.html\" width=\"100%\" height=\"600\" style=\"border:none;\"></iframe>"
+      ],
+      "id": "736ebda2"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "from IPython.core.display import display\n",
+        "\n",
+        "# Display the map inline in Jupyter Notebook\n",
+        "display(m)"
+      ],
+      "id": "3a0bfa8b",
+      "execution_count": null,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/namvien/.virtualenvs/r-reticulate/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

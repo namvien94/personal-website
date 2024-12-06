@@ -1,0 +1,54 @@
+---
+title: "Project 2 - Uber Fare Prediction"
+author: "Nam Vien"
+date: "12/05/2024"
+description: "This project explores machine learning methods to predict Uber fares."
+image: "uber.jpg"
+categories: [Individual, Machine Learning, Regression]
+format: html
+python:
+  python-path: /Users/namvien/.virtualenvs/r-reticulate/bin/python
+---
+
+## Summary
+
+**Introduction:**
+This project aimed to predict Uber ride fare amounts based on trip and passenger data. The goal was to develop a machine-learning model capable of accurately estimating fare amounts using various features derived from the dataset. The project involved data exploration, cleaning, feature engineering, model training, and evaluation.
+
+**Process:**
+
+- **Data Exploration and Cleaning:**
+  - Imported and explored the dataset to understand its structure and content.
+  - Identified and handled missing values and removed unrealistic records, focusing on trips within New York City.
+
+- **Feature Engineering:**
+  - Extracted relevant features such as trip distance using the Haversine formula and time-based attributes like day, month, and hour.
+  - Encoded categorical variables and removed unnecessary columns for streamlined model training.
+
+- **Modeling and Evaluation:**
+  - Evaluated multiple regression models, including Linear Regression, Lasso, Ridge, Decision Tree, Random Forest, Gradient Boosting, XGBoost, and LightGBM.
+  - Assessed model performance using Root Mean Squared Error (RMSE) on the test dataset.
+  - Selected LightGBM as the best-performing model with the lowest RMSE of 3.75.
+
+- **Prediction:**
+  - Used the best-performing model to make fare predictions on the test dataset.
+  - Saved the predictions to a CSV file for review.
+
+- **Visualization:**
+  - Created a heatmap of pickup locations to visualize trip density across New York City.
+
+**Outcome:**
+
+- Successfully developed and evaluated multiple machine learning models.
+- Identified LightGBM as the optimal model for fare prediction.
+- Delivered a cleaned dataset, predictive model, and visualization outputs for further insights.
+
+## Project Outputs
+
+<iframe src="NamVien_STATS101A_FinalProject.html" width="100%" height="900" style="border:none;"></iframe>
+
+## Supporting Documents
+
+[Project Guidelines](STATS101A_PROJECT_GUIDELINES.pdf){target="_blank"}
+
+[Download or view the PDF](NamVien_STATS101A_FinalProject.pdf){target="_blank"}

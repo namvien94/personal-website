@@ -1,17 +1,19 @@
 ---
-  toc: false
-  # listing:
-  #   - id: notes-listing
-  #   contents:
-  #     - "/notes/*.qmd"
-  #   sort: false
-  #   sort-ui: false
-  #   filter-ui: true
-  #   type: table
-  #   fields:
-  #     - title
-  #   categories: false
+title: "My Projects"
+listing:
+  - id: projects-listing
+    contents:
+    - "projects/Project 1/Project 1.qmd"
+    - "projects/Project 2/Project 2.qmd"
+    type: grid
+    sort: false
+    sort-ui: true
+    filter-ui: true
+    fields:
+      - image
+      - title
+      - description
+      - author
+      - date
+      - categories
 ---
-
-## My Projects
-

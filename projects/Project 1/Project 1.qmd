@@ -1,0 +1,54 @@
+---
+title: "Project 1 - Saciva"
+author: "Nam Vien"
+date: "12/05/2024"
+description: "This project involves clustering U.S. universities to assist international students in networking and housing."
+image: "usa map.jpg"
+categories: [Group, Clustering, Networking]
+format: 
+  html:
+    css: styles.css
+python:
+  python-path: /Users/namvien/.virtualenvs/r-reticulate/bin/python
+---
+
+## Summary
+
+**Introduction:**
+This project aims to create an intuitive clustering-based platform to help international students in the U.S. find suitable housing, roommates, and local connections. By analyzing geographic data and integrating cost of living, safety, and climate profiles, the goal is to replace traditional filters with a machine-learning approach that ensures broader, more efficient connections.
+
+---
+
+**Process**
+
+- **Data Understanding and Preparation:**
+  - Merged multiple datasets: geographic coordinates, cost of living, income, and campus safety metrics.
+  - Conducted exploratory data analysis (EDA) to clean, visualize, and understand data patterns.
+  - Calculated seasonal climate metrics and normalized cost indices for accurate comparisons.
+
+- **Clustering and Modeling:**
+  - Applied clustering algorithms (DBSCAN, Mean Shift, Agglomerative) to group universities based on proximity.
+  - Optimized clustering parameters using metrics like Silhouette Score for model evaluation.
+  - Selected DBSCAN as the final clustering model due to its highest Silhouette Score (0.868).
+
+- **Profiling and Visualization:**
+  - Created detailed cluster profiles, analyzing cost of living, safety scores, and climate characteristics.
+  - Generated interactive maps and data visualizations (e.g., heatmaps and boxplots) to enhance understanding.
+
+---
+
+**Outcome** 
+
+- Successfully created 294 meaningful clusters with distinct profiles based on geographic and socioeconomic factors.
+- Demonstrated the feasibility of clustering as a robust alternative to traditional filtering methods.
+- Delivered a scalable framework for streamlining housing and networking for international students, offering insights into cost, climate, and safety within commuting zones.  
+
+## Project Outputs
+
+<iframe src="saciva.html" width="100%" height="900" style="border:none;"></iframe>
+
+## Supporting Documents
+
+[Group Presentation](Saciva Clustering 1B Final Project Presentation.pdf){target="_blank"}
+
+[Download or view the PDF](saciva.pdf){target="_blank"}

@@ -11,27 +11,31 @@ title: "About"
 | On-site/Hybrid/Remote           	|  ✓   	|    	|             	|
 | Full-time/Part-time             	|  ✓   	|    	|             	|
 | Internship/Research Opportunity 	|  ✓   	|    	|             	|
-| U.S. military veteran           	|     	|✗    	|             	|
 | Having a disability             	|     	|✗    	|             	|
 | Felony or misdemeanor             |     	|✗    	|             	|
 
   
 ### Background
 - **Proud first-generation transfer college student**, originally from Vietnam,  
-  now based in Los Angeles - Orange County, California, USA.
+  now based in [Los Angeles](https://shorturl.at/13HYx){target="_blank"} - [Orange County](https://shorturl.at/vVG7X){target="_blank"}, California, USA.
 - **Languages**: 
   - Fluent in Vietnamese and Cantonese, in addition to English. 
   - Completed coursework in American Sign Language during sophomore year.
   - Programming proficiency: Python, R, and SQL.
 
 ### Hobbies and Interests
-- **Passion for traveling**, exploring new cuisines, and photography.
-- Enjoys **cooking favorite dishes**, window shopping, and hunting for great deals.
+- Passion for traveling, exploring new cuisines, and capturing moments through photography.
+- Enjoy exploring cultural landmarks, attending community events, and discovering hidden gems in cities.
+- Interested in nature walks and scenic hikes, combining the love for the outdoors with photography opportunities.
+- Enjoy cooking favorite dishes, experimenting with new recipes, and sharing meals with friends and family.
+- Love watching thriller, detective, and procedural drama movies, appreciating their complex plots and intriguing storylines.
 
 ### Favorite Things
 - **Holidays**: Christmas and Lunar New Year.
 - **Beverages**: Both coffee and tea.
-- **Desserts**: Prefers pies over cakes; favorite ice cream flavor is chocolate mint and a big fan of matcha green tea.
+- **Desserts**: 
+  - Prefer pies over cakes
+  - A big fan of Matcha green tea.
 
 ### Professional Relevance
 - **Academic and Career Focus**: 
@@ -63,41 +67,42 @@ I am always open to discussing innovative ideas, collaborations, or career oppor
 
 ### Photo Gallery
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-
 ::: {.grid .grid-cols-3 .gap-4}
 
 ::: {.g-col}
-[![Washington Monument](IMG_4824.jpeg)](IMG_4824.jpeg){target="_blank" data-lightbox="gallery" data-title="Washington Monument"}
+[![Fanxipan, Sapa, Vietnam](IMG_0312.jpeg)](IMG_0312.jpeg){target="_blank" data-title="Fanxipan, Vietnam"}
 :::
 
 ::: {.g-col}
-[![Fanxipan, Vietnam](IMG_0312.jpeg)](IMG_0312.jpeg){target="_blank" data-lightbox="gallery" data-title="Fanxipan, Vietnam"}
+[![Glass Bridge, Sapa, Vietnam](IMG_0528.jpeg)](IMG_0528.jpeg){target="_blank" data-title="Glass Bridge, Sapa, Vietnam"}
 :::
 
 ::: {.g-col}
-[![Glass Bridge, Sapa, Vietnam](IMG_0528.jpeg)](IMG_0528.jpeg){target="_blank" data-lightbox="gallery" data-title="Glass Bridge in Sapa, Vietnam"}
+[![University of Pennsylvania, PA](IMG_2052.JPG)](IMG_2052.JPG){target="_blank" data-title="UPenn, PA"}
 :::
 
 ::: {.g-col}
-[![Ha Long Bay, Vietnam](IMG_0917.jpeg)](IMG_0917.jpeg){target="_blank" data-lightbox="gallery" data-title="Ha Long Bay, Vietnam"}
+[![Ha Long Bay, Vietnam](IMG_0917.jpeg)](IMG_0917.jpeg){target="_blank" data-title="Ha Long Bay, Vietnam"}
 :::
 
 ::: {.g-col}
-[![Lake Tahoe, CA-NV](IMG_0501.jpeg)](IMG_0501.jpeg){target="_blank" data-lightbox="gallery" data-title="Lake Tahoe, CA-NV"}
+[![Lake Tahoe, CA-NV](IMG_0501.jpeg)](IMG_0501.jpeg){target="_blank" data-title="Lake Tahoe, CA-NV"}
 :::
 
 ::: {.g-col}
-[![UPenn, PA](IMG_2052.JPG)](IMG_2052.JPG){target="_blank" data-lightbox="gallery" data-title="UPenn, PA"}
+[![DEEPenn STEM, University of Pennsylvania](DEEPennSTEM.jpeg)](DEEPennSTEM.jpeg){target="_blank" data-title="UPenn, PA"}
 :::
 
 ::: {.g-col}
-[![Mekong Delta, Vietnam](IMG_1315.jpeg)](IMG_1315.jpeg){target="_blank" data-lightbox="gallery" data-title="Mekong Delta, Vietnam"}
+[![Mekong Delta, Vietnam](IMG_1315.jpeg)](IMG_1315.jpeg){target="_blank" data-title="Mekong Delta, Vietnam"}
 :::
 
 ::: {.g-col}
-[![Celebrating U.S. Citizenship](IMG_2991.jpeg)](IMG_2991.jpeg){target="_blank" data-lightbox="gallery" data-title="Celebrating U.S. Citizenship"}
+[![Elysian Park, Los Angeles](IMG_1097.JPG)](IMG_1097.JPG){target="_blank" data-title="Mekong Delta, Vietnam"}
+:::
+
+::: {.g-col}
+[![Washington Monument, D.C.](IMG_4824.jpeg)](IMG_4824.jpeg){target="_blank" data-title="Washington Monument"}
 :::
 
 :::
