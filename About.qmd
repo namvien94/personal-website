@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-| Nam Vien                          | Yes 	| No 	| Negotiation 	|
+| Nam Vien                          | Yes 	| No 	| Negotiable 	|
 |---------------------------------	|:---:	|:--:	|-------------	|
 | U.S. Citizen                    	|  ✓   	|    	|             	|
 | Authorized to work in the U.S.  	|  ✓   	|    	|             	|
@@ -11,7 +11,6 @@ title: "About"
 | On-site/Hybrid/Remote           	|  ✓   	|    	|             	|
 | Full-time/Part-time             	|  ✓   	|    	|             	|
 | Internship/Research Opportunity 	|  ✓   	|    	|             	|
-| Having a disability             	|     	|✗    	|             	|
 | Felony or misdemeanor             |     	|✗    	|             	|
 
   
@@ -26,16 +25,14 @@ title: "About"
 ### Hobbies and Interests
 - Passion for traveling, exploring new cuisines, and capturing moments through photography.
 - Enjoy exploring cultural landmarks, attending community events, and discovering hidden gems in cities.
-- Interested in nature walks and scenic hikes, combining the love for the outdoors with photography opportunities.
+- Interested in nature walks and scenic hikes, combining the love of the outdoors with photography opportunities.
 - Enjoy cooking favorite dishes, experimenting with new recipes, and sharing meals with friends and family.
 - Love watching thriller, detective, and procedural drama movies, appreciating their complex plots and intriguing storylines.
 
 ### Favorite Things
-- **Holidays**: Christmas and Lunar New Year.
-- **Beverages**: Both coffee and tea.
-- **Desserts**: 
-  - Prefer pies over cakes
-  - A big fan of Matcha green tea.
+- **Holidays**: Christmas and Lunar New Year
+- **Beverages**: Tea and Matcha Latte
+- **Desserts**: Panna Cotta, Fruit Tarts, and Cheesecake
 
 ### Professional Relevance
 - **Academic and Career Focus**: 
@@ -102,7 +99,7 @@ I am always open to discussing innovative ideas, collaborations, or career oppor
 :::
 
 ::: {.g-col}
-[![Washington Monument, D.C.](IMG_4824.jpeg)](IMG_4824.jpeg){target="_blank" data-title="Washington Monument"}
+[![Lincoln Memorial Reflecting Pool, Washington D.C.](IMG_4824.jpeg)](IMG_4824.jpeg){target="_blank" data-title="Washington Monument"}
 :::
 
 :::
