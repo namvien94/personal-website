@@ -3,7 +3,7 @@ title: "Project 1 - Saciva"
 author: "Nam Vien"
 date: "12/05/2024"
 description: "This project involves clustering U.S. universities to assist international students in networking and housing."
-image: "usa map.jpg"
+image: "usa.jpg"
 categories: [Group, Clustering, Networking]
 format: html
 python:
