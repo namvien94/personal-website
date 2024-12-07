@@ -1,2 +1,16 @@
 /* css styles */
+/* Styling for the navigation bar */
+.navbar {
+    background-color: #2774AE;  /* UCLA Blue */
+}
+
+.navbar a {
+    color: #FFFFFF;  /* White text for all links */
+    text-decoration: none;  /* Removes underline */
+}
+
+.navbar a:hover, .navbar a.active {
+    color: #FFFFFF;  /* Keeps text white on hover and when active */
+    background-color: transparent;  /* Ensures no background change */
+}
 
