@@ -6,6 +6,7 @@ listing:
     - "projects/Project 1/Project 1.qmd"
     - "projects/Project 2/Project 2.qmd"
     - "projects/Project 3/Project 3.qmd"
+    - "projects/Project 4/Project 4.qmd"
     type: grid
     sort: false
     sort-ui: true
@@ -18,3 +19,9 @@ listing:
       - date
       - categories
 ---
+
+---
+
+<div style="text-align: center; margin-top: 2em; font-size: 0.9em; color: gray;">
+  Project thumbnails sourced from Google Images; credit to the original creators.
+</div>

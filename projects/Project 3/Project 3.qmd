@@ -2,7 +2,7 @@
 title: "Project 3 - Unhoused Individuals in Los Angeles County"
 author: "Nam Vien"
 date: "12/05/2024"
-description: "This project analyzes trends in homelessness across Los Angeles neighborhoods from 2017 to 2022, focusing on disparities by demographics and resource allocation."
+description: "This project analyzes homelessness trends across Los Angeles neighborhoods (2017-2022), focusing on disparities by demographics."
 image: "unhouse.jpg"
 categories: [Group, Homelessness, Social Impact]
 format: html

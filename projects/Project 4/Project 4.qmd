@@ -1,0 +1,78 @@
+---
+title: "Project 4 - Aloha Airbnb"
+author: "Nam Vien"
+date: "12/05/2024"
+description: "This project examines the socio-economic impact of short-term rentals in Hawaii using data visualization, statistical analysis, and digital tools."
+image: "AlohaAirbnb.jpg"
+categories: [Group, Geographic Analysis, Web Development]
+format: html
+python:
+  python-path: /Users/namvien/.virtualenvs/r-reticulate/bin/python
+---
+
+The [**Aloha Airbnb**](https://alohaairbnb.humspace.ucla.edu/){target="_blank"} project, developed by UCLA's Digital Humanities 101 students in Fall 2023, examines the impact of short-term rentals (STRs) on Hawaiian tourist destinations, focusing on Lahaina and the Primary Urban Center (PUC) in Oahu. It explores both the economic benefits, such as increased income for hosts, and challenges like housing shortages and neighborhood transformations.
+
+### Tools and Methodologies Used
+
+The project employed a range of digital tools and methodologies to analyze and present data effectively:
+
+- **Data Collection and Analysis**:
+  - **Inside Airbnb**: Utilized as the primary data source, providing comprehensive information on Airbnb listings in the targeted Hawaiian regions.
+  - **Google Sheets**: Served as the platform for organizing and analyzing data, enabling collaborative examination of Airbnb's impact on local housing markets.
+  - **R**: Used for data cleaning, statistical analysis, and generating insights. These tools were instrumental in processing large datasets and performing advanced analyses.
+
+- **Data Visualization**:
+  - **Tableau**: Employed to create interactive visualizations, facilitating a deeper understanding of data patterns and trends related to STRs.
+  - **Python**: Used to create custom visualizations, supporting deeper exploration of trends and comparisons. 
+
+- **Web Development**:
+  - **WordPress**: Used as the content management system (CMS) to design and structure the project website, allowing for dynamic content presentation and user engagement.
+
+- **Mapping**:
+  - **Google Maps**: Integrated to display the geographical distribution of Airbnb listings, providing spatial context to the data.
+
+- **Collaboration**:
+  - **Slack**: Utilized for team communication, ensuring efficient collaboration among project members.
+  - **Google Drive**: Served as the repository for shared documents and resources, streamlining the workflow.
+
+These tools collectively enabled the team to conduct a thorough analysis of STRs' effects on housing and communities in Hawaii, presenting findings in an accessible and informative manner.
+
+### Measurable Outcomes
+
+The project achieved several quantifiable results:
+
+- **Data-Driven Insights**: Identified that 89.81% of Airbnb listings in Lahaina are entire homes or apartments, highlighting the significant presence of STRs in the housing market.
+
+- **Audience Engagement**: The website attracted a substantial number of visitors, with interactive elements such as maps and timelines receiving high engagement rates, indicating effective dissemination of information.
+
+- **Policy Implications**: The analysis provided valuable data for policymakers, contributing to informed discussions on regulating STRs to balance economic benefits with community needs.
+
+### Questions This Project Can Answer
+
+The Aloha Airbnb project addresses several critical questions:
+
+1. **Economic Impact**: How do STRs affect local economies in Hawaiian tourist destinations?
+
+2. **Housing Market Dynamics**: What influence do STRs have on housing availability and affordability for local residents?
+
+3. **Community Effects**: In what ways do STRs alter neighborhood dynamics and the social fabric of communities?
+
+4. **Regulatory Considerations**: What are the potential benefits and drawbacks of implementing stricter regulations on STRs?
+
+### Personal Learning and Skill Development
+
+Engaging in this project facilitated significant personal and professional growth:
+
+- **Data Analysis Proficiency**: Enhanced ability to collect, organize, and interpret complex datasets, leading to more informed conclusions.
+
+- **Technical Skills**: Gained hands-on experience with tools like Tableau and WordPress, expanding technical capabilities in data visualization and web development.
+
+- **Collaborative Experience**: Developed teamwork skills through coordinated efforts using platforms like Slack and Google Drive, emphasizing the importance of communication and cooperation.
+
+- **Critical Thinking**: Refined the ability to critically assess the multifaceted impacts of STRs, considering economic, social, and policy perspectives.
+
+<iframe src="https://alohaairbnb.humspace.ucla.edu/" 
+        width="100%" 
+        height="800px" 
+        style="border:none;">
+</iframe>
