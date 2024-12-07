@@ -41,3 +41,10 @@ This project investigates the demographic and geographic trends of homelessness 
 ## Supporting Documents
 
 [Download or view the PDF](Unhoused Group Presentation.pdf){target="_blank"}
+
+---
+
+<div style="text-align: center; margin-top: 2em; font-size: 0.9em; color: gray;">
+  This project was part of Dr. Munia Bhaumik's DH M121 F24 - Race, Gender, and Data: Whose Lives Count? \
+  at UCLA Digital Humanities Department.
+</div>

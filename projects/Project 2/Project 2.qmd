@@ -2,7 +2,7 @@
 title: "Project 2 - Uber Fare Prediction"
 author: "Nam Vien"
 date: "12/05/2024"
-description: "This project explores machine learning methods to predict Uber fares."
+description: "This project applies machine learning methods to predict Uber fares."
 image: "uber.jpg"
 categories: [Individual, Machine Learning, Regression]
 format: html
@@ -52,3 +52,10 @@ This project aimed to predict Uber ride fare amounts based on trip and passenger
 [Project Guidelines](STATS101A_PROJECT_GUIDELINES.pdf){target="_blank"}
 
 [Download or view the PDF](NamVien_STATS101A_FinalProject.pdf){target="_blank"}
+
+---
+
+<div style="text-align: center; margin-top: 2em; font-size: 0.9em; color: gray;">
+  This project was part of Professor Vivian Lew's Stats 101A S24, guided by TA Jialiang Geng, \
+  at UCLA Department of Statistics and Data Science.
+</div>

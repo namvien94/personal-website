@@ -76,3 +76,8 @@ Engaging in this project facilitated significant personal and professional growt
         height="800px" 
         style="border:none;">
 </iframe>
+
+<div style="text-align: center; margin-top: 2em; font-size: 0.9em; color: gray;">
+  This project was part of Professor Wendy Kurtz's DH101 F23, guided by TA Nick Schwieterman \
+  at UCLA Digital Humanities Department.
+</div>

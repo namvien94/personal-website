@@ -1,0 +1,57 @@
+---
+title: "Project 5 - Machine Learning Models"
+author: "Nam Vien"
+date: "12/06/2024"
+description: "This project explores advanced statistical techniques to analyze decision boundaries in datasets with multiple features, focusing on their practical applications."
+image: "machine-learning.webp"
+categories: [Data Mining, Supervised Learning, Classification Models]
+format: html
+python:
+  python-path: /Users/namvien/.virtualenvs/r-reticulate/bin/python
+---
+
+## Assignment 1
+
+This assignment involves reproducing key plots and results to analyze the **bias-variance tradeoff, function class comparisons, and KNN** testing performance. 
+
+<iframe src="Hw1.html" width="100%" height="900" style="border:none;"></iframe>
+
+## Assignment 2
+
+This assignment is about plotting the decision boundaries of **LDA, QDA, and Logistic Loss** minimization on [BankNote_Authentication.csv](https://archive.ics.uci.edu/dataset/267/banknote+authentication){target="_blank"}
+
+The BankNote_Authentication.csv contains 5 variables: (1) variance (2) skewness (3) curtosis (4) entropy (5) class \
+The first four variables are features of banknote and the last variable is the class indicating whether this banknote is real or not.
+
+<iframe src="Hw2.html" width="100%" height="900" style="border:none;"></iframe>
+
+## Assignment 3
+
+This assignment focuses on applying and comparing supervised learning techniques—**decision trees, random forests, and boosting**—on the Banknote dataset. The objective is to evaluate and contrast their predictive performance based on testing errors after training models with specific hyperparameters.
+
+<iframe src="Hw3.html" width="100%" height="900" style="border:none;"></iframe>
+
+## Assignment 4
+
+In this dataset, there are 6 predictors X_1...,X_6 and 1 response variable. \
+There are 3 predictors that should not be included in the regression model. \
+Apply **LASSO** to figure out those variables. \
+
+Find the attached csv file: [DF_LASSO](DF_LASSO.csv){target="_blank"}
+
+<iframe src="Hw4.html" width="100%" height="900" style="border:none;"></iframe>
+
+## Assignment 5
+
+This assignment explores the application of **linear and kernel Support Vector Machine (SVM)** models on a dataset, focusing on their performance and visualization. By comparing testing accuracies and plotting decision boundaries, the assignment highlights the impact of model selection and kernel usage in classification tasks.
+
+Find the attached csv file: [Data](Data.csv){target="_blank"}
+
+<iframe src="Hw5.html" width="100%" height="900" style="border:none;"></iframe>
+
+---
+
+<div style="text-align: center; margin-top: 2em; font-size: 0.9em; color: gray;">
+  These assignments were part of Professor Shirong Xu's Stats 101C F24, guided by TA Zhi Zhang, \
+  at UCLA Department of Statistics and Data Science.
+</div>

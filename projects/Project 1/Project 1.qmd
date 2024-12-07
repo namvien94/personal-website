@@ -50,3 +50,10 @@ This project aims to create an intuitive clustering-based platform to help inter
 [Group Presentation](Saciva Clustering 1B Final Project Presentation.pdf){target="_blank"}
 
 [Download or view the PDF](saciva.pdf){target="_blank"}
+
+---
+
+<div style="text-align: center; margin-top: 2em; font-size: 0.9em; color: gray;">
+  This project was part of the Fall 2024 AI Studio, led by SACIVA CEO Abhi Medikonduri, \
+  guided by TA Dominic Diaz at UCLA Break Through Tech AI program.
+</div>

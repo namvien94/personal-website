@@ -11,7 +11,7 @@
     "href": "projects.html",
     "title": "My Projects",
     "section": "",
-    "text": "Project thumbnails sourced from Google Images; credit to the original creators.\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nProject 1 - Saciva\n\n\n\nGroup\n\n\nClustering\n\n\nNetworking\n\n\n\nThis project involves clustering U.S. universities to assist international students in networking and housing.\n\n\n\nNam Vien\n\n\nDec 5, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 2 - Uber Fare Prediction\n\n\n\nIndividual\n\n\nMachine Learning\n\n\nRegression\n\n\n\nThis project explores machine learning methods to predict Uber fares.\n\n\n\nNam Vien\n\n\nDec 5, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 3 - Unhoused Individuals in Los Angeles County\n\n\n\nGroup\n\n\nHomelessness\n\n\nSocial Impact\n\n\n\nThis project analyzes homelessness trends across Los Angeles neighborhoods (2017-2022), focusing on disparities by demographics.\n\n\n\nNam Vien\n\n\nDec 5, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 4 - Aloha Airbnb\n\n\n\nGroup\n\n\nGeographic Analysis\n\n\nWeb Development\n\n\n\nThis project examines the socio-economic impact of short-term rentals in Hawaii using data visualization, statistical analysis, and digital tools.\n\n\n\nNam Vien\n\n\nDec 5, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Project thumbnails sourced from Google Images; credit to the original creators.\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nProject 1 - Saciva\n\n\n\nGroup\n\n\nClustering\n\n\nNetworking\n\n\n\nThis project involves clustering U.S. universities to assist international students in networking and housing.\n\n\n\nNam Vien\n\n\nDec 5, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 2 - Uber Fare Prediction\n\n\n\nIndividual\n\n\nMachine Learning\n\n\nRegression\n\n\n\nThis project applies machine learning methods to predict Uber fares.\n\n\n\nNam Vien\n\n\nDec 5, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 3 - Unhoused Individuals in Los Angeles County\n\n\n\nGroup\n\n\nHomelessness\n\n\nSocial Impact\n\n\n\nThis project analyzes homelessness trends across Los Angeles neighborhoods (2017-2022), focusing on disparities by demographics.\n\n\n\nNam Vien\n\n\nDec 5, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 4 - Aloha Airbnb\n\n\n\nGroup\n\n\nGeographic Analysis\n\n\nWeb Development\n\n\n\nThis project examines the socio-economic impact of short-term rentals in Hawaii using data visualization, statistical analysis, and digital tools.\n\n\n\nNam Vien\n\n\nDec 5, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 5 - Machine Learning Models\n\n\n\nData Mining\n\n\nSupervised Learning\n\n\nClassification Models\n\n\n\nThis project explores advanced statistical techniques to analyze decision boundaries in datasets with multiple features, focusing on their practical applications.\n\n\n\nNam Vien\n\n\nDec 6, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects.html#project-1",
@@ -354,7 +354,7 @@
     "href": "projects/Project 2/Project 2.html#supporting-documents",
     "title": "Project 2 - Uber Fare Prediction",
     "section": "Supporting Documents",
-    "text": "Supporting Documents\nProject Guidelines\nDownload or view the PDF"
+    "text": "Supporting Documents\nProject Guidelines\nDownload or view the PDF\n\n\nThis project was part of Professor Vivian Lew’s Stats 101A S24, guided by TA Jialiang Geng,\nat UCLA Department of Statistics and Data Science."
   },
   {
     "objectID": "projects/Project 1/Project 1.html#summary",
@@ -382,7 +382,7 @@
     "href": "projects/Project 1/Project 1.html#supporting-documents",
     "title": "Project 1 - Saciva",
     "section": "Supporting Documents",
-    "text": "Supporting Documents\nGroup Presentation\nDownload or view the PDF"
+    "text": "Supporting Documents\nGroup Presentation\nDownload or view the PDF\n\n\nThis project was part of the Fall 2024 AI Studio, led by SACIVA CEO Abhi Medikonduri,\nguided by TA Dominic Diaz at UCLA Break Through Tech AI program."
   },
   {
     "objectID": "projects/projects.html",
@@ -445,13 +445,55 @@
     "href": "projects/Project 3/Project 3.html#supporting-documents",
     "title": "Project 3 - Unhoused Individuals in Los Angeles County",
     "section": "Supporting Documents",
-    "text": "Supporting Documents\nDownload or view the PDF"
+    "text": "Supporting Documents\nDownload or view the PDF\n\n\nThis project was part of Dr. Munia Bhaumik’s DH M121 F24 - Race, Gender, and Data: Whose Lives Count?\nat UCLA Digital Humanities Department."
   },
   {
     "objectID": "projects/Project 4/Project 4.html",
     "href": "projects/Project 4/Project 4.html",
     "title": "Project 4 - Aloha Airbnb",
     "section": "",
-    "text": "The Aloha Airbnb project, developed by UCLA’s Digital Humanities 101 students in Fall 2023, examines the impact of short-term rentals (STRs) on Hawaiian tourist destinations, focusing on Lahaina and the Primary Urban Center (PUC) in Oahu. It explores both the economic benefits, such as increased income for hosts, and challenges like housing shortages and neighborhood transformations.\n\nTools and Methodologies Used\nThe project employed a range of digital tools and methodologies to analyze and present data effectively:\n\nData Collection and Analysis:\n\nInside Airbnb: Utilized as the primary data source, providing comprehensive information on Airbnb listings in the targeted Hawaiian regions.\nGoogle Sheets: Served as the platform for organizing and analyzing data, enabling collaborative examination of Airbnb’s impact on local housing markets.\nR: Used for data cleaning, statistical analysis, and generating insights. These tools were instrumental in processing large datasets and performing advanced analyses.\n\nData Visualization:\n\nTableau: Employed to create interactive visualizations, facilitating a deeper understanding of data patterns and trends related to STRs.\nPython: Used to create custom visualizations, supporting deeper exploration of trends and comparisons.\n\nWeb Development:\n\nWordPress: Used as the content management system (CMS) to design and structure the project website, allowing for dynamic content presentation and user engagement.\n\nMapping:\n\nGoogle Maps: Integrated to display the geographical distribution of Airbnb listings, providing spatial context to the data.\n\nCollaboration:\n\nSlack: Utilized for team communication, ensuring efficient collaboration among project members.\nGoogle Drive: Served as the repository for shared documents and resources, streamlining the workflow.\n\n\nThese tools collectively enabled the team to conduct a thorough analysis of STRs’ effects on housing and communities in Hawaii, presenting findings in an accessible and informative manner.\n\n\nMeasurable Outcomes\nThe project achieved several quantifiable results:\n\nData-Driven Insights: Identified that 89.81% of Airbnb listings in Lahaina are entire homes or apartments, highlighting the significant presence of STRs in the housing market.\nAudience Engagement: The website attracted a substantial number of visitors, with interactive elements such as maps and timelines receiving high engagement rates, indicating effective dissemination of information.\nPolicy Implications: The analysis provided valuable data for policymakers, contributing to informed discussions on regulating STRs to balance economic benefits with community needs.\n\n\n\nQuestions This Project Can Answer\nThe Aloha Airbnb project addresses several critical questions:\n\nEconomic Impact: How do STRs affect local economies in Hawaiian tourist destinations?\nHousing Market Dynamics: What influence do STRs have on housing availability and affordability for local residents?\nCommunity Effects: In what ways do STRs alter neighborhood dynamics and the social fabric of communities?\nRegulatory Considerations: What are the potential benefits and drawbacks of implementing stricter regulations on STRs?\n\n\n\nPersonal Learning and Skill Development\nEngaging in this project facilitated significant personal and professional growth:\n\nData Analysis Proficiency: Enhanced ability to collect, organize, and interpret complex datasets, leading to more informed conclusions.\nTechnical Skills: Gained hands-on experience with tools like Tableau and WordPress, expanding technical capabilities in data visualization and web development.\nCollaborative Experience: Developed teamwork skills through coordinated efforts using platforms like Slack and Google Drive, emphasizing the importance of communication and cooperation.\nCritical Thinking: Refined the ability to critically assess the multifaceted impacts of STRs, considering economic, social, and policy perspectives."
+    "text": "The Aloha Airbnb project, developed by UCLA’s Digital Humanities 101 students in Fall 2023, examines the impact of short-term rentals (STRs) on Hawaiian tourist destinations, focusing on Lahaina and the Primary Urban Center (PUC) in Oahu. It explores both the economic benefits, such as increased income for hosts, and challenges like housing shortages and neighborhood transformations.\n\nTools and Methodologies Used\nThe project employed a range of digital tools and methodologies to analyze and present data effectively:\n\nData Collection and Analysis:\n\nInside Airbnb: Utilized as the primary data source, providing comprehensive information on Airbnb listings in the targeted Hawaiian regions.\nGoogle Sheets: Served as the platform for organizing and analyzing data, enabling collaborative examination of Airbnb’s impact on local housing markets.\nR: Used for data cleaning, statistical analysis, and generating insights. These tools were instrumental in processing large datasets and performing advanced analyses.\n\nData Visualization:\n\nTableau: Employed to create interactive visualizations, facilitating a deeper understanding of data patterns and trends related to STRs.\nPython: Used to create custom visualizations, supporting deeper exploration of trends and comparisons.\n\nWeb Development:\n\nWordPress: Used as the content management system (CMS) to design and structure the project website, allowing for dynamic content presentation and user engagement.\n\nMapping:\n\nGoogle Maps: Integrated to display the geographical distribution of Airbnb listings, providing spatial context to the data.\n\nCollaboration:\n\nSlack: Utilized for team communication, ensuring efficient collaboration among project members.\nGoogle Drive: Served as the repository for shared documents and resources, streamlining the workflow.\n\n\nThese tools collectively enabled the team to conduct a thorough analysis of STRs’ effects on housing and communities in Hawaii, presenting findings in an accessible and informative manner.\n\n\nMeasurable Outcomes\nThe project achieved several quantifiable results:\n\nData-Driven Insights: Identified that 89.81% of Airbnb listings in Lahaina are entire homes or apartments, highlighting the significant presence of STRs in the housing market.\nAudience Engagement: The website attracted a substantial number of visitors, with interactive elements such as maps and timelines receiving high engagement rates, indicating effective dissemination of information.\nPolicy Implications: The analysis provided valuable data for policymakers, contributing to informed discussions on regulating STRs to balance economic benefits with community needs.\n\n\n\nQuestions This Project Can Answer\nThe Aloha Airbnb project addresses several critical questions:\n\nEconomic Impact: How do STRs affect local economies in Hawaiian tourist destinations?\nHousing Market Dynamics: What influence do STRs have on housing availability and affordability for local residents?\nCommunity Effects: In what ways do STRs alter neighborhood dynamics and the social fabric of communities?\nRegulatory Considerations: What are the potential benefits and drawbacks of implementing stricter regulations on STRs?\n\n\n\nPersonal Learning and Skill Development\nEngaging in this project facilitated significant personal and professional growth:\n\nData Analysis Proficiency: Enhanced ability to collect, organize, and interpret complex datasets, leading to more informed conclusions.\nTechnical Skills: Gained hands-on experience with tools like Tableau and WordPress, expanding technical capabilities in data visualization and web development.\nCollaborative Experience: Developed teamwork skills through coordinated efforts using platforms like Slack and Google Drive, emphasizing the importance of communication and cooperation.\nCritical Thinking: Refined the ability to critically assess the multifaceted impacts of STRs, considering economic, social, and policy perspectives.\n\n\n\n\nThis project was part of Professor Wendy Kurtz’s DH101 F23, guided by TA Nick Schwieterman\nat UCLA Digital Humanities Department."
+  },
+  {
+    "objectID": "projects/Project 5/Project 5.html",
+    "href": "projects/Project 5/Project 5.html",
+    "title": "Project 5 - Machine Learning Models",
+    "section": "",
+    "text": "This assignment involves reproducing key plots and results to analyze the bias-variance tradeoff, function class comparisons, and KNN testing performance."
+  },
+  {
+    "objectID": "projects/Project 5/Project 5.html#assignment-1",
+    "href": "projects/Project 5/Project 5.html#assignment-1",
+    "title": "Project 5 - Machine Learning Models",
+    "section": "",
+    "text": "This assignment involves reproducing key plots and results to analyze the bias-variance tradeoff, function class comparisons, and KNN testing performance."
+  },
+  {
+    "objectID": "projects/Project 5/Project 5.html#assignment-2",
+    "href": "projects/Project 5/Project 5.html#assignment-2",
+    "title": "Project 5 - Machine Learning Models",
+    "section": "Assignment 2",
+    "text": "Assignment 2\nThis assignment is about plotting the decision boundaries of LDA, QDA, and Logistic Loss minimization on BankNote_Authentication.csv\nThe BankNote_Authentication.csv contains 5 variables: (1) variance (2) skewness (3) curtosis (4) entropy (5) class\nThe first four variables are features of banknote and the last variable is the class indicating whether this banknote is real or not."
+  },
+  {
+    "objectID": "projects/Project 5/Project 5.html#assignment-3",
+    "href": "projects/Project 5/Project 5.html#assignment-3",
+    "title": "Project 5 - Machine Learning Models",
+    "section": "Assignment 3",
+    "text": "Assignment 3\nThis assignment focuses on applying and comparing supervised learning techniques—decision trees, random forests, and boosting—on the Banknote dataset. The objective is to evaluate and contrast their predictive performance based on testing errors after training models with specific hyperparameters."
+  },
+  {
+    "objectID": "projects/Project 5/Project 5.html#assignment-4",
+    "href": "projects/Project 5/Project 5.html#assignment-4",
+    "title": "Project 5 - Machine Learning Models",
+    "section": "Assignment 4",
+    "text": "Assignment 4\nIn this dataset, there are 6 predictors X_1…,X_6 and 1 response variable.\nThere are 3 predictors that should not be included in the regression model.\nApply LASSO to figure out those variables.\n\nFind the attached csv file: DF_LASSO"
+  },
+  {
+    "objectID": "projects/Project 5/Project 5.html#assignment-5",
+    "href": "projects/Project 5/Project 5.html#assignment-5",
+    "title": "Project 5 - Machine Learning Models",
+    "section": "Assignment 5",
+    "text": "Assignment 5\nThis assignment explores the application of linear and kernel Support Vector Machine (SVM) models on a dataset, focusing on their performance and visualization. By comparing testing accuracies and plotting decision boundaries, the assignment highlights the impact of model selection and kernel usage in classification tasks.\nFind the attached csv file: Data\n\n\n\n\nThese assignments were part of Professor Shirong Xu’s Stats 101C F24, guided by TA Zhi Zhang,\nat UCLA Department of Statistics and Data Science."
   }
 ]
