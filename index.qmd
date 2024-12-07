@@ -28,7 +28,9 @@ toc: false
 ---
 
 Nam Vien is a senior at UCLA majoring in **Statistics and Data Science**, focusing on turning complex data into **actionable insights**.\
+
 With a strong foundation in **statistical analysis, machine learning, and data visualization**, Nam is driven to solve real-world problems and deliver **measurable impact**.\
+
 Nam is **actively seeking opportunities** to contribute to innovative, data-driven projects, leveraging his achievements and strong **teamwork** skills to bring value to your organization.
 
 ## Education
