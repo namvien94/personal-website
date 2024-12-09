@@ -151,7 +151,22 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
   <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>Nam Vien is a senior at UCLA majoring in <strong>Statistics and Data Science</strong>, focusing on turning complex data into <strong>actionable insights</strong>.<br>
+<!-- Screen Reader Button -->
+<button id="screenReaderButton" aria-label="">
+🎙 Screen Reader
+</button>
+<!-- Buttons for TTS Control -->
+<button id="startButton">
+🔊 Start
+</button>
+<button id="pauseResumeButton" disabled="">
+⏸ Pause
+</button>
+<button id="stopButton" disabled="">
+⏹ Stop
+</button>
+<p><br>
+Nam Vien is a senior at UCLA majoring in <strong>Statistics and Data Science</strong>, focusing on turning complex data into <strong>actionable insights</strong>.<br>
 </p>
 <p>With a strong foundation in <strong>statistical analysis, machine learning, and data visualization</strong>, Nam is driven to solve real-world problems and deliver <strong>measurable impact</strong>.<br>
 </p>
@@ -180,6 +195,53 @@ UCLA Center for Community Engagement |<br>
 September 2024 - May 2025</p>
 <p><a href="https://web.sas.upenn.edu/deepennstem/" target="_blank">DEEPenn STEM Scholar</a> | University of Pennsylvania |<br>
 October 2024</p>
+<script>
+  // Initialize the speech object
+  const speech = new SpeechSynthesisUtterance();
+  let isPaused = false; // State to track pause/resume
+  // Start Button
+  document.getElementById('startButton').addEventListener('click', function () {
+    const text = document.body.innerText || document.body.textContent; // Get the entire page content
+    speech.lang = 'en-US'; // English language
+    speech.text = text; // Set the text content
+    speech.rate = 1; // Normal speech rate
+    speech.pitch = 1; // Normal pitch
+    window.speechSynthesis.speak(speech); // Start speaking
+    // Enable Pause/Resume and Stop buttons
+    document.getElementById('pauseResumeButton').disabled = false;
+    document.getElementById('stopButton').disabled = false;
+    document.getElementById('startButton').disabled = true; // Disable Start button
+  });
+  // Pause/Resume Button
+  document.getElementById('pauseResumeButton').addEventListener('click', function () {
+    if (window.speechSynthesis.speaking && !isPaused) {
+      window.speechSynthesis.pause(); // Pause speech
+      this.textContent = '▶️ Resume'; // Change button text
+      isPaused = true;
+    } else if (isPaused) {
+      window.speechSynthesis.resume(); // Resume speech
+      this.textContent = '⏸ Pause'; // Change button text back
+      isPaused = false;
+    }
+  });
+  // Stop Button
+  document.getElementById('stopButton').addEventListener('click', function () {
+    window.speechSynthesis.cancel(); // Stop speech
+    isPaused = false; // Reset pause state
+    // Reset buttons
+    document.getElementById('pauseResumeButton').disabled = true;
+    document.getElementById('stopButton').disabled = true;
+    document.getElementById('startButton').disabled = false; // Re-enable Start button
+    document.getElementById('pauseResumeButton').textContent = '⏸ Pause'; // Reset button text
+  });
+  // Reset buttons when speech ends
+  speech.addEventListener('end', function () {
+    document.getElementById('pauseResumeButton').disabled = true;
+    document.getElementById('stopButton').disabled = true;
+    document.getElementById('startButton').disabled = false;
+    document.getElementById('pauseResumeButton').textContent = '⏸ Pause'; // Reset button text
+  });
+</script>
 
 
 </section>
