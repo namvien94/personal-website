@@ -21,7 +21,7 @@ about:
       href: "Resume.pdf"
       icon: file-text-fill
     - text: Schedule a Meeting
-      href: "https://calendly.com/nam_vien/new-meeting"
+      href: "https://calendly.com/nam_vien/new-meeting-1"
       icon: calendar-fill
 comments: false
 toc: false
