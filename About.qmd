@@ -67,7 +67,7 @@ I am always open to discussing innovative ideas, collaborations, or career oppor
 ::: {.grid .grid-cols-3 .gap-4}
 
 ::: {.g-col}
-[![Fanxipan, Sapa, Vietnam](IMG_0312.jpeg)](IMG_0312.jpeg){target="_blank" data-title="Fanxipan, Vietnam"}
+[![Fanxipan, Sapa, Vietnam](IMG_0322.jpeg)](IMG_0322.jpeg){target="_blank" data-title="Fanxipan, Vietnam"}
 :::
 
 ::: {.g-col}
@@ -87,19 +87,19 @@ I am always open to discussing innovative ideas, collaborations, or career oppor
 :::
 
 ::: {.g-col}
-[![DEEPenn STEM, University of Pennsylvania](DEEPennSTEM.jpeg)](DEEPennSTEM.jpeg){target="_blank" data-title="UPenn, PA"}
+[![DEEPenn STEM, University of Pennsylvania](DEEPennSTEM.JPEG)](DEEPennSTEM.JPEG){target="_blank" data-title="UPenn, PA"}
 :::
 
 ::: {.g-col}
-[![Mekong Delta, Vietnam](IMG_1315.jpeg)](IMG_1315.jpeg){target="_blank" data-title="Mekong Delta, Vietnam"}
+[![Mekong Delta, Vietnam](IMG_1299.jpeg)](IMG_1299.jpeg){target="_blank" data-title="Mekong Delta, Vietnam"}
 :::
 
 ::: {.g-col}
-[![Elysian Park, Los Angeles](IMG_1097.JPG)](IMG_1097.JPG){target="_blank" data-title="Mekong Delta, Vietnam"}
+[![Elysian Park, Los Angeles](IMG_5154_Original.jpg)](IMG_5154_Original.jpg){target="_blank" data-title="Mekong Delta, Vietnam"}
 :::
 
 ::: {.g-col}
-[![Lincoln Memorial Reflecting Pool, Washington D.C.](IMG_4824.jpeg)](IMG_4824.jpeg){target="_blank" data-title="Washington Monument"}
+[![Lincoln Memorial Reflecting Pool, Washington D.C.](IMG_4699.jpeg)](IMG_4699.jpeg){target="_blank" data-title="Washington Monument"}
 :::
 
 :::
