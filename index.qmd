@@ -18,7 +18,7 @@ about:
       url: "mailto:nam_vien@yahoo.com"
       icon: inbox-fill
     - text: Résume
-      href: "Resume.pdf"
+      href: "NamVien_Resume.pdf"
       icon: file-text-fill
     - text: Schedule a Meeting
       href: "https://calendly.com/nam_vien/new-meeting-1"
