@@ -28,7 +28,7 @@ toc: false
 ---
 
 <!-- Screen Reader Button -->
-<button id="screenReaderButton" aria-label="">🎙 Screen Reader</button>
+<!-- <button id="screenReaderButton" aria-label="">🎙 Screen Reader</button> -->
 <!-- Buttons for TTS Control -->
 <button id="startButton">🔊 Start</button>
 <button id="pauseResumeButton" disabled>⏸ Pause</button>
