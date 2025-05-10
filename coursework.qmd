@@ -6,17 +6,18 @@ toc: false
 
 | Term      | Courses              | Syllabus                        |
 |--------------|----------------------|----------------------------------|
-| Fall 2023    | MATH 115A - Linear Algebra      | [View Syllabus](syllabus/stats-101c.pdf) |
-| Fall 2023    | DH 101 - Introduction to Digital Humanities      | [View Syllabus](syllabus/stats-101c.pdf) |
-| Winter 2024  | MATH 106 - History of Mathematics     | [View Syllabus](syllabus/Math 106.pdf) |
-| Winter 2024  | STATS 20 - Introduction to Statistical Programming with R    | [View Syllabus](syllabus/Stats 20.pdf) |
-| Winter 2024  | STATS 100A - Introduction to Probability    | [View Syllabus](syllabus/Stats 100A.pdf) |
-| Spring 2024  | STATS 101A - Introduction to Data Analysis and Regression   | [View Syllabus](syllabus/Stats 101A.pdf) |
-| Spring 2024  | MATH 170S - Introduction to Probability and Statistics 2: Statistics   | [View Syllabus](syllabus/data-sci-102a.pdf) |
-| Summer 2024  | STATS 101B - Introduction to Design and Analysis of Experiment   | [View Syllabus](syllabus/Stats 101B.pdf) |
-| Summer 2024  | STATS 102A - Introduction to Computational Statistics with R   | [View Syllabus](syllabus/Stats 102A.pdf) |
-| Summer 2024  | STATS 102B - Introduction to Computation and Optimization for Statistics   | [View Syllabus](syllabus/Stats 102B.pdf) |
-| Fall 2024  | STATS 101C - Introduction to Statistical Models and Data Mining   | [View Syllabus](syllabus/Stats 101C.pdf) |
-| Fall 2024  | STATS 102C - Introduction to Monte Carlo Methods   | [View Syllabus](syllabus/Stats 102C.pdf) |
-| Fall 2024  | STATS 140XP - Practice of Statistical Consulting   | [View Syllabus](syllabus/Stats 140XP.pdf) |
-| Fall 2024  | DH M121 - Race, Gender, and Data   | [View Syllabus](syllabus/DH M121.pdf) |
+| Fall 2023    | MATH 115A - Linear Algebra      | [View Syllabus](syllabus/stats-101c.pdf){target="_blank"} |
+| Fall 2023    | DH 101 - Introduction to Digital Humanities      | [View Syllabus](syllabus/stats-101c.pdf){target="_blank"} |
+| Winter 2024  | MATH 106 - History of Mathematics     | [View Syllabus](syllabus/Math 106.pdf){target="_blank"} |
+| Winter 2024  | STATS 20 - Introduction to Statistical Programming with R    | [View Syllabus](syllabus/Stats 20.pdf){target="_blank"} |
+| Winter 2024  | STATS 100A - Introduction to Probability    | [View Syllabus](syllabus/Stats 100A.pdf){target="_blank"} |
+| Spring 2024  | STATS 101A - Introduction to Data Analysis and Regression   | [View Syllabus](syllabus/Stats 101A.pdf){target="_blank"} |
+| Spring 2024  | MATH 170S - Introduction to Probability and Statistics 2: Statistics   | [View Syllabus](syllabus/data-sci-102a.pdf){target="_blank"} |
+| Summer 2024  | STATS 101B - Introduction to Design and Analysis of Experiment   | [View Syllabus](syllabus/Stats 101B.pdf){target="_blank"} |
+| Summer 2024  | STATS 102A - Introduction to Computational Statistics with R   | [View Syllabus](syllabus/Stats 102A.pdf){target="_blank"} |
+| Summer 2024  | STATS 102B - Introduction to Computation and Optimization for Statistics   | [View Syllabus](syllabus/Stats 102B.pdf){target="_blank"} |
+| Fall 2024  | STATS 101C - Introduction to Statistical Models and Data Mining   | [View Syllabus](syllabus/Stats 101C.pdf){target="_blank"} |
+| Fall 2024  | STATS 102C - Introduction to Monte Carlo Methods   | [View Syllabus](syllabus/Stats 102C.pdf){target="_blank"} |
+| Fall 2024  | STATS 140XP - Practice of Statistical Consulting   | [View Syllabus](syllabus/Stats 140XP.pdf){target="_blank"} |
+| Fall 2024  | DH M121 - Race, Gender, and Data   | [View Syllabus](syllabus/DH M121.pdf){target="_blank"} |
+| Winter 2025  | DH 131 - Digital Mapping and Critical Geographic Information Systems   | [View Syllabus](syllabus/DH 131.pdf){target="_blank"} |

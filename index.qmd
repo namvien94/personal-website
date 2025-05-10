@@ -6,7 +6,7 @@ title: "Nam Vien"
 title: "Nam Vien"
 about:
   template: trestles
-  image: namvien1.jpg
+  image: namvien.jpg
   links:
     - icon: linkedin
       text: LinkedIn

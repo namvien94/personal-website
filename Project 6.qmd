@@ -1,0 +1,69 @@
+---
+title: "Project 6 - Surveillance & Equity"
+author: "Nam Vien"
+date: "05/10/2025"
+description: "This project explores how facial recognition technology intersects with racial diversity and spatial inequality in American cities through digital mapping and policy analysis."
+image: "FacialRecognitionMap.jpg"
+categories: [Group, Surveillance Studies, Digital Mapping]
+format: html
+python:
+  python-path: /Users/namvien/.virtualenvs/r-reticulate/bin/python
+---
+
+The [**Racial Diversity & the Use of Facial Recognition Technology**](https://storymaps.arcgis.com/stories/3d6144c9e75740cb826323cdd586793c){target="_blank"} project, developed as part of a digital mapping initiative, investigates the spatial distribution of facial recognition technology (FRT) in U.S. cities and its implications for racially diverse populations. By combining demographic data, policy research, and geospatial analysis, the project examines how surveillance technologies may exacerbate existing inequalities and civil liberties concerns.
+
+### Tools and Methodologies Used
+
+The project integrated several digital humanities and geospatial tools to investigate the social consequences of surveillance:
+
+- **Data Collection and Analysis**:
+  - **Census Data**: Provided demographic information on racial and ethnic composition at the neighborhood level.
+  - **Policy Reports**: Synthesized local and national FRT policies, bans, and advocacy responses.
+  - **ArcGIS**: Used to analyze spatial patterns and overlay racial diversity with locations of FRT deployment.
+
+- **Mapping and Visualization**:
+  - **ArcGIS StoryMaps**: Served as the primary platform for digital storytelling, combining narrative text with interactive maps and infographics.
+  - **Data Dashboards**: Embedded visualizations helped illustrate disparities and raise questions about surveillance targeting.
+
+- **Web Development and Design**:
+  - **Custom Interface Elements**: Timeline, callout boxes, and map pop-ups guided users through key findings and critical perspectives.
+
+- **Collaboration**:
+  - **Shared Editorial Review**: Students worked collectively to refine narratives, visual clarity, and citation accuracy.
+  - **Peer Feedback**: Iterative review processes helped sharpen arguments and improve accessibility.
+
+### Measurable Outcomes
+
+The project produced meaningful insights and outcomes:
+
+- **Geospatial Insight**: Revealed a correlation between FRT presence and areas with higher racial diversity, suggesting disproportionate surveillance in marginalized communities.
+- **Public Engagement**: The interactive format increased accessibility and engagement, reaching educators, policymakers, and advocacy groups interested in digital justice.
+- **Policy Awareness**: Provided a synthesized overview of cities with active FRT bans or proposals, encouraging informed civic participation.
+
+### Questions This Project Can Answer
+
+The project offers a framework to explore and debate complex surveillance issues:
+
+1. **Equity and Surveillance**: Are racially diverse communities more likely to be monitored by facial recognition systems?
+2. **Technology and Policy**: How do local governments regulate or resist the adoption of facial recognition?
+3. **Social Justice Implications**: What role does public data play in making visible patterns of bias in technological infrastructure?
+4. **Digital Ethics**: How can urban surveillance be designed or limited to avoid civil rights violations?
+
+### Personal Learning and Skill Development
+
+This project contributed to both academic and technical growth:
+
+- **Critical Data Interpretation**: Learned to contextualize quantitative data within broader social and ethical frameworks.
+- **Geospatial Literacy**: Gained experience using ArcGIS StoryMaps to visualize spatial injustice and drive narrative impact.
+- **Civic Technology Awareness**: Developed an understanding of how digital tools intersect with real-world policy debates and advocacy.
+- **Ethical Communication**: Practiced translating complex technological debates into accessible formats for diverse audiences.
+
+<iframe src="https://storymaps.arcgis.com/stories/3d6144c9e75740cb826323cdd586793c"
+        width="100%"
+        height="800px"
+        style="border:none;">
+</iframe>
+
+<div style="text-align: center; margin-top: 2em; font-size: 0.9em; color: gray;">
+  This project was part of Professor Wendy Kurtz's DH178 Capstone Seminar: (Re)Defining LA S25 at UCLA Digital Humanities Department.
+</div>
