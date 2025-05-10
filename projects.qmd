@@ -8,6 +8,7 @@ listing:
     - "projects/Project 3/Project 3.qmd"
     - "projects/Project 4/Project 4.qmd"
     - "projects/Project 5/Project 5.qmd"
+    - "projects/Project 6/Project 6.qmd"
     type: grid
     sort: false
     sort-ui: true
