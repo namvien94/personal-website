@@ -83,7 +83,16 @@ I am always open to discussing innovative ideas, collaborations, or career oppor
 :::
 
 ::: {.g-col}
+[![New York City, NY](NYC.JPG)](NYC.JPG){target="_blank" data-title="New York City"}
+:::
+
+::: {.g-col}
+[![DataFest, UCLA](Datafest.JPG)](Datafest.JPG){target="_blank" data-title="DataFest"}
+:::
+
+::: {.g-col}
 [![Lincoln Memorial Reflecting Pool, Washington D.C.](IMG_4699.jpeg)](IMG_4699.jpeg){target="_blank" data-title="Washington Monument"}
 :::
+
 
 :::
