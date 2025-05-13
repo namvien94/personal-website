@@ -28,19 +28,19 @@ title: "About"
   - Currently studying **Statistics and Data Science** at UCLA with a Minor in **Digital Humanities**, combining technical expertise with an interest in addressing **business and social issues** through data.
 
 ### Key Projects and Experiences
-#### **Saciva**: Enhancing International Student Support
-- **Overview**: Designed and implemented a university clustering model using geographic proximity data to assist over 1 million international students annually.
-- **Clustering Approach**: Used advanced algorithms like DBSCAN to group universities based on commute distances, creating intuitive, location-based networks for housing and roommate matching.
+#### [**Saciva**](https://namvien.netlify.app/projects/project%201/project%201){target="_blank"}: Enhancing International Student Support
+- **Overview**: Designed and implemented a university clustering model using *geographic proximity* data to assist over 1 million international students annually.
+- **Clustering Approach**: Used advanced algorithms like *DBSCAN* to group universities based on commute distances, creating intuitive, *location-based networks* for housing and roommate matching.
 - **Profiles and Insights**: Enhanced user experience by providing region-specific profiles that include cost of living, climate, and safety metrics, empowering students to make informed decisions.
 - **Impact**: Replaced manual filtering with cluster-based recommendations, reducing decision fatigue and increasing resource accessibility.
 
 ### Values
 - **Cultural Diversity and Inclusion**: 
   - Committed to celebrating and promoting cultural diversity and inclusion, as demonstrated through my work with Saciva and the Data Justice Scholars program.  
-  - These projects emphasize fostering equitable access to resources for international students and addressing social justice issues through data analysis. \
+  - These projects emphasize *fostering equitable access* to resources for international students and addressing social justice issues through data analysis. \
 - **Support for Underserved Communities**: 
-  - Passionate about uplifting underserved communities, including people of color, immigrants, and low-income families.  
-  - I strive to create innovative, data-driven solutions that address social inequities and empower these groups to achieve greater opportunities and success.
+  - Passionate about *uplifting underserved communities*, including people of color, immigrants, foster youth, LGBTQ+, and low-income families.  
+  - I strive to create innovative, data-driven, and applicable solutions that address social inequities and empower everyone to achieve greater opportunities and success together.
 
 ### Let’s Connect!
 Feel free to reach out to me on [LinkedIn](http://www.linkedin.com/in/namvien){target="_blank"} or explore my projects on [GitHub](https://github.com/namvien94?tab=repositories){target="_blank"}.  
