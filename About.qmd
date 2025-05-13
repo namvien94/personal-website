@@ -18,21 +18,14 @@ title: "About"
 - **Proud first-generation transfer college student**, originally from Vietnam,  
   now based in [Los Angeles](https://maps.app.goo.gl/S5WsAXxVuwJE7ZVh7){target="_blank"} - [Orange County](https://maps.app.goo.gl/FqpMRFZHZqRwJhdC9){target="_blank"}, California, USA.
 - **Languages**:
-  - Programming proficiency: Python, R, and SQL.
-  - Fluent in Vietnamese and Cantonese, in addition to English. 
+  - Programming proficiency: **Python, R, and SQL**.
+  - Fluent in **Vietnamese** and **Cantonese**, in addition to **English**. 
   - Completed coursework in American Sign Language during sophomore year.
-  
-### Hobbies and Interests
-- Passion for traveling, exploring new cuisines, and capturing moments through photography.
-- Enjoy exploring cultural landmarks, attending community events, and discovering hidden gems in cities.
-- Interested in nature walks and scenic hikes, combining the love of the outdoors with photography opportunities.
-- Enjoy cooking favorite dishes, experimenting with new recipes, and sharing meals with friends and family.
-- Love watching thriller, detective, and procedural drama movies, appreciating their complex plots and intriguing storylines.
 
 ### Professional Relevance
 - **Academic and Career Focus**: 
-  - Passionate about leveraging AI/ML to solve real-world challenges through innovative, data-driven solutions.  
-  - Currently studying Statistics and Data Science at UCLA with a Minor in Digital Humanities, combining technical expertise with an interest in addressing social issues through data.
+  - Passionate about leveraging **AI/ML** to solve real-world challenges through **innovative, data-driven, applicable solutions**.  
+  - Currently studying **Statistics and Data Science** at UCLA with a Minor in **Digital Humanities**, combining technical expertise with an interest in addressing **social issues** through data.
 
 ### Key Projects and Experiences
 #### **Saciva**: Enhancing International Student Support
