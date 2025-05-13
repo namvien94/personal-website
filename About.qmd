@@ -24,8 +24,8 @@ title: "About"
 
 ### Professional Relevance
 - **Academic and Career Focus**: 
-  - Passionate about leveraging **AI/ML** to solve real-world challenges through **innovative, data-driven, applicable solutions**.  
-  - Currently studying **Statistics and Data Science** at UCLA with a Minor in **Digital Humanities**, combining technical expertise with an interest in addressing **social issues** through data.
+  - Passionate about leveraging **AI/ML** to solve real-world challenges through **innovative, data-driven, and applicable solutions**.  
+  - Currently studying **Statistics and Data Science** at UCLA with a Minor in **Digital Humanities**, combining technical expertise with an interest in addressing **business and social issues** through data.
 
 ### Key Projects and Experiences
 #### **Saciva**: Enhancing International Student Support
