@@ -21,3 +21,6 @@ toc: false
 | Fall 2024  | STATS 140XP - Practice of Statistical Consulting   | [View Syllabus](syllabus/Stats 140XP.pdf){target="_blank"} |
 | Fall 2024  | DH M121 - Race, Gender, and Data   | [View Syllabus](syllabus/DH M121.pdf){target="_blank"} |
 | Winter 2025  | DH 131 - Digital Mapping and Critical Geographic Information Systems   | [View Syllabus](syllabus/DH 131.pdf){target="_blank"} |
+| Winter 2025  | STATS 141XP - Statistics Consulting   | [View Syllabus](syllabus/Stats 141XP.pdf){target="_blank"} |
+| Spring 2025  | DH 187 - Capstone Seminar: (Re)Defining LA   | [View Syllabus](syllabus/DH 187.pdf){target="_blank"} |
+| Spring 2025  | STATS 100C - Linear Models   | [View Syllabus](syllabus/Stats 100C.pdf){target="_blank"} |
