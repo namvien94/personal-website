@@ -43,12 +43,11 @@ Nam is **actively seeking opportunities** to contribute to innovative, data-driv
 ## Education
 
 University of California, Los Angeles\
-B.S. in [Statistics and Data Science](https://statistics.ucla.edu/index.php/academics/undergraduate/statistics-major-worksheets/){target="_blank"} \| June 2025\
-Minor in [Digital Humanities](https://dh.ucla.edu/undergraduate-minor/){target="_blank"} \| June 2025
+Bachelor of Science in [Statistics and Data Science](CeD.25EN-HAQQ-NQNQ.pdf){target="_blank"} \
+Minor in [Digital Humanities](https://dh.ucla.edu/undergraduate-minor/){target="_blank"} \
 
 Cornell University, New York\
-E-certificate in [Machine Learning Foundations](Nam%20Vien%20ML%20Foundations%20Certificate.pdf){target="_blank"} \|\
-May 2024 - August 2024
+E-certificate in [Machine Learning Foundations](Nam%20Vien%20ML%20Foundations%20Certificate.pdf){target="_blank"} \
 
 ## Experience
 
@@ -59,16 +58,13 @@ August 2024 - December 2024
 
 ## Leadership
 
-[Break Through Tech AI Fellow](https://www.breakthroughtech.org/programs/the-ai-program/){target="_blank"} \| Cornell University x UCLA \|\
-[Certificate of Completion](Certificate of Completion.pdf){target="_blank"} \|\
-May 2024 - May 2025
+[Break Through Tech AI Fellow](https://www.breakthroughtech.org/programs/the-ai-program/){target="_blank"} \| Cornell University x UCLA \
+[Certificate of Completion](Certificate of Completion.pdf){target="_blank"} \
 
-[Data Justice Scholar](https://communityengagement.ucla.edu/programs/data-justice-scholars-program/){target="_blank"} \|\
-UCLA Center for Community Engagement \|\
-September 2024 - May 2025
+[Data Justice Scholar](https://communityengagement.ucla.edu/programs/data-justice-scholars-program/){target="_blank"} \
+UCLA Center for Community Engagement \
 
-[DEEPenn STEM Scholar](https://web.sas.upenn.edu/deepennstem/){target="_blank"} \| University of Pennsylvania \|\
-October 2024
+[DEEPenn STEM Scholar](https://web.sas.upenn.edu/deepennstem/deepenn-stem-weekend-2024/){target="_blank"} \| University of Pennsylvania \
 
 
 <script>

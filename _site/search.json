@@ -2,7 +2,7 @@
   {
     "objectID": "coursework.html",
     "href": "coursework.html",
-    "title": "Completed Coursework",
+    "title": "Coursework",
     "section": "",
     "text": "Term\nCourses\nSyllabus\n\n\n\n\nFall 2023\nMATH 115A - Linear Algebra\nView Syllabus\n\n\nFall 2023\nDH 101 - Introduction to Digital Humanities\nView Syllabus\n\n\nWinter 2024\nMATH 106 - History of Mathematics\nView Syllabus\n\n\nWinter 2024\nSTATS 20 - Introduction to Statistical Programming with R\nView Syllabus\n\n\nWinter 2024\nSTATS 100A - Introduction to Probability\nView Syllabus\n\n\nSpring 2024\nSTATS 101A - Introduction to Data Analysis and Regression\nView Syllabus\n\n\nSpring 2024\nMATH 170S - Introduction to Probability and Statistics 2: Statistics\nView Syllabus\n\n\nSummer 2024\nSTATS 101B - Introduction to Design and Analysis of Experiment\nView Syllabus\n\n\nSummer 2024\nSTATS 102A - Introduction to Computational Statistics with R\nView Syllabus\n\n\nSummer 2024\nSTATS 102B - Introduction to Computation and Optimization for Statistics\nView Syllabus\n\n\nFall 2024\nSTATS 101C - Introduction to Statistical Models and Data Mining\nView Syllabus\n\n\nFall 2024\nSTATS 102C - Introduction to Monte Carlo Methods\nView Syllabus\n\n\nFall 2024\nSTATS 140XP - Practice of Statistical Consulting\nView Syllabus\n\n\nFall 2024\nDH M121 - Race, Gender, and Data\nView Syllabus\n\n\nWinter 2025\nDH 131 - Digital Mapping and Critical Geographic Information Systems\nView Syllabus\n\n\nWinter 2025\nSTATS 141XP - Statistics Consulting\nView Syllabus\n\n\nSpring 2025\nDH 187 - Capstone Seminar: (Re)Defining LA\nView Syllabus\n\n\nSpring 2025\nSTATS 100C - Linear Models\nView Syllabus"
   },
@@ -18,7 +18,7 @@
     "href": "index.html#education",
     "title": "Nam Vien",
     "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles\nB.S. in Statistics and Data Science | June 2025\nMinor in Digital Humanities | June 2025\nCornell University, New York\nE-certificate in Machine Learning Foundations |\nMay 2024 - August 2024"
+    "text": "Education\nUniversity of California, Los Angeles\nBachelor of Science in Statistics and Data Science\nMinor in Digital Humanities\n\nCornell University, New York\nE-certificate in Machine Learning Foundations"
   },
   {
     "objectID": "index.html#experience",
@@ -32,7 +32,7 @@
     "href": "index.html#leadership",
     "title": "Nam Vien",
     "section": "Leadership",
-    "text": "Leadership\nBreak Through Tech AI Fellow | Cornell University x UCLA |\nCertificate of Completion |\nMay 2024 - May 2025\nData Justice Scholar |\nUCLA Center for Community Engagement |\nSeptember 2024 - May 2025\nDEEPenn STEM Scholar | University of Pennsylvania |\nOctober 2024"
+    "text": "Leadership\nBreak Through Tech AI Fellow | Cornell University x UCLA\nCertificate of Completion\n\nData Justice Scholar\nUCLA Center for Community Engagement\n\nDEEPenn STEM Scholar | University of Pennsylvania"
   },
   {
     "objectID": "projects/Project 1/Project 1.html",
