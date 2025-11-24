@@ -15,17 +15,13 @@ title: "About"
 
   
 ### Background
-- **Proud first-generation transfer college student**, originally from Vietnam,  
-  now based in [Los Angeles](https://maps.app.goo.gl/S5WsAXxVuwJE7ZVh7){target="_blank"} - [Orange County](https://maps.app.goo.gl/FqpMRFZHZqRwJhdC9){target="_blank"}, California, USA.
-- **Languages**:
-  - Programming proficiency: **Python, R, and SQL**.
-  - Fluent in **Vietnamese** and **Cantonese**, in addition to **English**. 
-  - Completed coursework in American Sign Language during sophomore year.
+- Programming languages proficiency: **Python and R**.
+- Fluent in **Vietnamese** and **Cantonese**, in addition to **English**. 
 
 ### Professional Relevance
 - **Academic and Career Focus**: 
   - Passionate about leveraging **AI/ML** to solve real-world challenges through **innovative, data-driven, and applicable solutions**.  
-  - Currently studying **Statistics and Data Science** at UCLA with a Minor in **Digital Humanities**, combining technical expertise with an interest in addressing **business and social issues** through data.
+  - Trained in **Statistics and Data Science** at UCLA with a Minor in **Digital Humanities**, combining technical expertise with an interest in addressing **business and social issues** through data.
 
 ### Key Projects and Experiences
 #### [**Saciva**](https://namvien.netlify.app/projects/project%201/project%201){target="_blank"}: Enhancing International Student Support
@@ -35,64 +31,11 @@ title: "About"
 - **Impact**: Replaced manual filtering with cluster-based recommendations, reducing decision fatigue and increasing resource accessibility.
 
 ### Values
-- **Cultural Diversity and Inclusion**: 
-  - Committed to celebrating and promoting cultural diversity and inclusion, as demonstrated through my work with Saciva and the Data Justice Scholars program.  
-  - These projects emphasize *fostering equitable access* to resources for international students and addressing social justice issues through data analysis. \
-- **Support for Underserved Communities**: 
-  - Passionate about *uplifting underserved communities*, including people of color, immigrants, foster youth, LGBTQ+, and low-income families.  
-  - I strive to create innovative, data-driven, and applicable solutions that address social inequities and empower everyone to achieve greater opportunities and success together.
+- Commit to celebrating and promoting cultural diversity and inclusion, as demonstrated through my work with Saciva and the Data Justice Scholars program.  
+- Engage in efforts to uplift underserved communities, including people of color, immigrants, foster youth, LGBTQ+, and low-income families.  
+- Strive to create innovative, data-driven, and applicable solutions that address social inequities and empower everyone to achieve greater opportunities and success together.
 
 ### Let’s Connect!
 Feel free to reach out to me on [LinkedIn](http://www.linkedin.com/in/namvien){target="_blank"} or explore my projects on [GitHub](https://github.com/namvien94?tab=repositories){target="_blank"}.  
 I am always open to discussing innovative ideas, collaborations, or career opportunities!
 
-### Photo Gallery
-
-::: {.grid .grid-cols-3 .gap-4}
-
-::: {.g-col}
-[![Fanxipan, Sapa, Vietnam](IMG_0322.jpeg)](IMG_0322.jpeg){target="_blank" data-title="Fanxipan, Vietnam"}
-:::
-
-::: {.g-col}
-[![Glass Bridge, Sapa, Vietnam](IMG_0528.jpeg)](IMG_0528.jpeg){target="_blank" data-title="Glass Bridge, Sapa, Vietnam"}
-:::
-
-::: {.g-col}
-[![University of Pennsylvania, PA](IMG_2052.JPG)](IMG_2052.JPG){target="_blank" data-title="UPenn, PA"}
-:::
-
-::: {.g-col}
-[![Ha Long Bay, Vietnam](IMG_0917.jpeg)](IMG_0917.jpeg){target="_blank" data-title="Ha Long Bay, Vietnam"}
-:::
-
-::: {.g-col}
-[![Lake Tahoe, CA-NV](IMG_0501.jpeg)](IMG_0501.jpeg){target="_blank" data-title="Lake Tahoe, CA-NV"}
-:::
-
-::: {.g-col}
-[![DEEPenn STEM, University of Pennsylvania](DEEPennSTEM.JPEG)](DEEPennSTEM.JPEG){target="_blank" data-title="UPenn, PA"}
-:::
-
-::: {.g-col}
-[![Mekong Delta, Vietnam](IMG_1299.jpeg)](IMG_1299.jpeg){target="_blank" data-title="Mekong Delta, Vietnam"}
-:::
-
-::: {.g-col}
-[![Elysian Park, Los Angeles](IMG_5154_Original.jpg)](IMG_5154_Original.jpg){target="_blank" data-title="Mekong Delta, Vietnam"}
-:::
-
-::: {.g-col}
-[![New York City, NY](NYC.JPG)](NYC.JPG){target="_blank" data-title="New York City"}
-:::
-
-::: {.g-col}
-[![DataFest, UCLA](Datafest.JPG)](Datafest.JPG){target="_blank" data-title="DataFest"}
-:::
-
-::: {.g-col}
-[![Lincoln Memorial Reflecting Pool, Washington D.C.](IMG_4699.jpeg)](IMG_4699.jpeg){target="_blank" data-title="Washington Monument"}
-:::
-
-
-:::
