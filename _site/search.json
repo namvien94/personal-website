@@ -194,5 +194,89 @@
     "title": "Project 6 - Surveillance & Equity",
     "section": "",
     "text": "The Racial Diversity & the Use of Facial Recognition Technology project, developed as part of a digital mapping initiative, investigates the spatial distribution of facial recognition technology (FRT) in U.S. cities and its implications for racially diverse populations. By combining demographic data, policy research, and geospatial analysis, the project examines how surveillance technologies may exacerbate existing inequalities and civil liberties concerns.\n\nTools and Methodologies Used\nThe project integrated several digital humanities and geospatial tools to investigate the social consequences of surveillance:\n\nData Collection and Analysis:\n\nCensus Data: Provided demographic information on racial and ethnic composition at the neighborhood level.\nPolicy Reports: Synthesized local and national FRT policies, bans, and advocacy responses.\nArcGIS: Used to analyze spatial patterns and overlay racial diversity with locations of FRT deployment.\n\nMapping and Visualization:\n\nArcGIS StoryMaps: Served as the primary platform for digital storytelling, combining narrative text with interactive maps and infographics.\nData Dashboards: Embedded visualizations helped illustrate disparities and raise questions about surveillance targeting.\n\nWeb Development and Design:\n\nCustom Interface Elements: Timeline, callout boxes, and map pop-ups guided users through key findings and critical perspectives.\n\nCollaboration:\n\nShared Editorial Review: Students worked collectively to refine narratives, visual clarity, and citation accuracy.\nPeer Feedback: Iterative review processes helped sharpen arguments and improve accessibility.\n\n\n\n\nMeasurable Outcomes\nThe project produced meaningful insights and outcomes:\n\nGeospatial Insight: Revealed a correlation between FRT presence and areas with higher racial diversity, suggesting disproportionate surveillance in marginalized communities.\nPublic Engagement: The interactive format increased accessibility and engagement, reaching educators, policymakers, and advocacy groups interested in digital justice.\nPolicy Awareness: Provided a synthesized overview of cities with active FRT bans or proposals, encouraging informed civic participation.\n\n\n\nQuestions This Project Can Answer\nThe project offers a framework to explore and debate complex surveillance issues:\n\nEquity and Surveillance: Are racially diverse communities more likely to be monitored by facial recognition systems?\nTechnology and Policy: How do local governments regulate or resist the adoption of facial recognition?\nSocial Justice Implications: What role does public data play in making visible patterns of bias in technological infrastructure?\nDigital Ethics: How can urban surveillance be designed or limited to avoid civil rights violations?\n\n\n\nPersonal Learning and Skill Development\nThis project contributed to both academic and technical growth:\n\nCritical Data Interpretation: Learned to contextualize quantitative data within broader social and ethical frameworks.\nGeospatial Literacy: Gained experience using ArcGIS StoryMaps to visualize spatial injustice and drive narrative impact.\nCivic Technology Awareness: Developed an understanding of how digital tools intersect with real-world policy debates and advocacy.\nEthical Communication: Practiced translating complex technological debates into accessible formats for diverse audiences.\n\n\n\n\nThis project was part of Professor Wendy Kurtz’s DH 131 - Digital Mapping and Critical Geographic Information Systems\nat UCLA Digital Humanities Department."
+  },
+  {
+    "objectID": "Portfolio.html",
+    "href": "Portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "I build clarity from complexity.\nAcross my projects, I focus on understanding users, synthesizing insights, defining problems, and creating scalable systems that enable intuitive experiences — especially for social, creator-driven, and community-centered products.\nThis portfolio highlights how I translate ambiguous challenges into structured, data-informed strategies and early product concepts."
+  },
+  {
+    "objectID": "Portfolio.html#designing-user-ecosystem-segmentation-to-improve-discovery-community-formation",
+    "href": "Portfolio.html#designing-user-ecosystem-segmentation-to-improve-discovery-community-formation",
+    "title": "Portfolio",
+    "section": "Designing User Ecosystem Segmentation to Improve Discovery & Community Formation",
+    "text": "Designing User Ecosystem Segmentation to Improve Discovery & Community Formation\nRole: AI Studio Fellow (Aug–Dec 2024)\nDomain: Social discovery • onboarding flows • segmentation • user insights • operational alignment"
+  },
+  {
+    "objectID": "Portfolio.html#overview",
+    "href": "Portfolio.html#overview",
+    "title": "Portfolio",
+    "section": "1. Overview",
+    "text": "1. Overview\nInternational students navigating the U.S. face fragmented information, unclear local differences, and difficulty building social ties.\nSaciva aims to reduce this friction by helping 1M+ international students discover communities, locations, and resources that match their needs.\nMy work focused on understanding user ecosystems and developing a segmentation framework that supports more personalized and intuitive discovery experiences."
+  },
+  {
+    "objectID": "Portfolio.html#problem",
+    "href": "Portfolio.html#problem",
+    "title": "Portfolio",
+    "section": "2. Problem",
+    "text": "2. Problem\nStudents often cannot answer essential questions:\n\nWhere can I find safe, affordable housing?\n\nWhat areas feel similar to my home environment?\n\nWhere are people like me?\n\nWhich regions match my lifestyle and needs?\n\nFilters alone cannot answer these — they lack context, proximity awareness, and environmental nuance.\nSaciva needed a user-centered, data-driven foundation for recommendations and onboarding flows."
+  },
+  {
+    "objectID": "Portfolio.html#goal",
+    "href": "Portfolio.html#goal",
+    "title": "Portfolio",
+    "section": "3. Goal",
+    "text": "3. Goal\nCreate an ecosystem model that:\n\nGroups environments in ways students actually perceive them\n\nSupports personalized discovery (like TikTok’s For You Page, but for regions)\n\nReduces cognitive load in relocation decisions\n\nHelps product teams understand user needs at scale\n\nThis mirrors core PM responsibilities:\nproblem definition → insight generation → modeling → prototyping"
+  },
+  {
+    "objectID": "Portfolio.html#my-role",
+    "href": "Portfolio.html#my-role",
+    "title": "Portfolio",
+    "section": "4. My Role",
+    "text": "4. My Role\nI led analytical and product-thinking contributions across:\n\nUser needs exploration\n\nInsight synthesis across multi-source datasets\n\nEvaluation of clustering methods for user-relevant grouping\n\nEarly prototype development (interactive cluster maps)\n\nCommunicating findings to the CEO and team for product direction"
+  },
+  {
+    "objectID": "Portfolio.html#process",
+    "href": "Portfolio.html#process",
+    "title": "Portfolio",
+    "section": "5. Process",
+    "text": "5. Process\n\n🔍 a. User & Environment Research\nSynthesized patterns across:\n\nUniversity locations\n\nClimate\n\nCrime/safety\n\nCost of living\n\nIncome demographics\n\nGuiding product question:\nHow do these factors shape where students want to live and who they want to connect with?\n\n\n\n🧩 b. Segmentation Strategy for Discovery Flows\nEvaluated three clustering approaches:\n\nDBSCAN\n\nMean Shift\n\nAgglomerative clustering\n\nDBSCAN emerged as the strongest performer (silhouette score: 0.868), producing 294 meaningful regional clusters.\nWhy PMs care:\nThis segmentation created a foundation for:\n\nBetter onboarding (“What areas match your profile?”)\n\nPersonalized recommendations\n\nLocalized content relevance\n\nOperational planning for community tools\n\n\n\n\n🗺️ c. Prototype: Interactive Ecosystem Map\nBuilt a Folium-based map visualizing:\n\n294 environmental segments\n\nAffordability\n\nClimate similarity\n\nSafety patterns\n\nRegional profiles\n\nThis tool improved stakeholder understanding and enabled faster product ideation for student discovery flows."
+  },
+  {
+    "objectID": "Portfolio.html#outcome",
+    "href": "Portfolio.html#outcome",
+    "title": "Portfolio",
+    "section": "6. Outcome",
+    "text": "6. Outcome\n\nGenerated insights that shaped early product direction for onboarding and discovery\n\nDeveloped a segmentation model applicable to community-building, recommendations, and localized user experiences\n\nDelivered a prototype that improved stakeholder clarity on user ecosystems\n\nHelped define strategic opportunities for student engagement"
+  },
+  {
+    "objectID": "Portfolio.html#relevance-to-tiktok-pm-creator-ops",
+    "href": "Portfolio.html#relevance-to-tiktok-pm-creator-ops",
+    "title": "Portfolio",
+    "section": "7. Relevance to TikTok PM & Creator Ops",
+    "text": "7. Relevance to TikTok PM & Creator Ops\n\n🎯 For Product Management:\n\nUser needs framing\n\nProblem-first thinking\n\nData-informed product reasoning\n\nPrototyping to explore feasibility\n\nCommunicating insights to influence strategy\n\n\n\n🎨 For Creator Operations:\n\nAudience segmentation\n\nInsight generation for content relevance\n\nOperational visibility into local ecosystems\n\nCross-functional alignment with leadership"
+  },
+  {
+    "objectID": "Portfolio.html#welcome",
+    "href": "Portfolio.html#welcome",
+    "title": "Portfolio",
+    "section": "",
+    "text": "I build clarity from complexity.\nAcross my projects, I focus on understanding users, synthesizing insights, defining problems, and creating scalable systems that enable intuitive experiences — especially for social, creator-driven, and community-centered products.\nThis portfolio highlights how I translate ambiguous challenges into structured, data-informed strategies and early product concepts."
+  },
+  {
+    "objectID": "Portfolio.html#case-study-saciva",
+    "href": "Portfolio.html#case-study-saciva",
+    "title": "Portfolio",
+    "section": "🧭 Case Study: Saciva",
+    "text": "🧭 Case Study: Saciva\n\nDesigning User Ecosystem Segmentation to Improve Discovery and Community Formation\nRole: AI Studio Fellow\nDomain: Social discovery • onboarding flows • segmentation • user insights • operational alignment\n\n\n\n1. Overview\nInternational students navigating the U.S. face fragmented information, unclear local differences, and difficulty building social ties.\nSaciva aims to reduce this friction by helping over one millions international students in the U.S. discover communities, locations, and resources that match their needs.\nMy work focused on understanding user ecosystems and developing a segmentation framework that supports more personalized and intuitive discovery experiences.\n\n\n\n2. Problem\nStudents often cannot answer essential questions:\n\nWhere can I find safe, affordable housing?\n\nWhat areas feel similar to my home environment?\n\nWhere are people like me?\n\nWhich regions match my lifestyle and needs?\n\nFilters alone cannot answer these — they lack context, proximity awareness, and environmental nuance.\nSaciva needed a user-centered, data-driven foundation for recommendations and onboarding flows.\n\n\n\n3. Goal\nCreate an ecosystem model that:\n\nGroups environments in ways students actually perceive them\n\nSupports personalized discovery (like TikTok’s For You Page, but for regions)\n\nReduces cognitive load in relocation decisions\n\nHelps product teams understand user needs at scale\n\n\n\n\n4. My Role\nI led analytical and product-thinking contributions across:\n\nUser needs exploration\n\nInsight synthesis across multi-source datasets\n\nEvaluation of clustering methods for user-relevant grouping\n\nEarly prototype development (interactive cluster maps)\n\nExchanging findings to the CEO and team for product direction\n\n\n\n\n5. Process\n\n🔍 a. User & Environment Research\nSynthesized patterns across:\n\nUniversity locations\n\nClimate\n\nCrime/safety\n\nCost of living\n\nIncome demographics\n\nGuiding product question:\nHow do these factors shape where students want to live and who they want to connect with?\n\n\n\n🧩 b. Segmentation Strategy for Discovery Flows\nEvaluated three clustering approaches:\n\nDBSCAN\n\nMean Shift\n\nAgglomerative clustering\n\nDBSCAN emerged as the strongest performer (silhouette score: 0.868), producing 294 meaningful regional clusters.\nThis segmentation created a foundation for:\n\nBetter onboarding (“What areas match your profile?”)\n\nPersonalized recommendations\n\nLocalized content relevance\n\nOperational planning for community tools\n\n\n\n\n🗺️ c. Prototype: Interactive Ecosystem Map\nBuilt a Folium-based map visualizing:\n\n294 environmental segments\n\nAffordability\n\nClimate similarity\n\nSafety patterns\n\nRegional profiles\n\nThis tool improved stakeholder understanding and enabled faster product ideation for student discovery flows.\n\n\n\n\n6. Outcome\n\nGenerated insights that shaped early product direction for onboarding and discovery\n\nDeveloped a segmentation model applicable to community-building, recommendations, and localized user experiences\n\nDelivered a prototype that improved stakeholder clarity on user ecosystems\n\nHelped define strategic opportunities for student engagement\n\n\n\n\n7. Alignment with TikTok’s Mission & Product Vision\n\nTransformed fragmented student challenges into structured insights by identifying patterns in safety, affordability, climate, and community factors, supporting TikTok’s vision of creating intuitive, accessible experiences rooted in real user needs.\nEvaluated and selected DBSCAN as the most meaningful segmentation approach through data-driven reasoning, contributing to the type of scalable understanding of user ecosystems that underpins TikTok’s personalized discovery and community-building features.\nDeveloped an interactive ecosystem prototype that clarified how users navigate their environments and form connections, reflecting TikTok’s commitment to empowering people with tools that help them explore, discover, and build meaningful relationships."
+  },
+  {
+    "objectID": "Portfolio.html#hi-welcome",
+    "href": "Portfolio.html#hi-welcome",
+    "title": "Portfolio",
+    "section": "",
+    "text": "I build clarity from complexity.\nAcross my projects, I focus on understanding users, synthesizing insights, defining problems, and creating scalable systems that enable intuitive experiences — especially for social, creator-driven, and community-centered products.\nThis portfolio highlights how I translate ambiguous challenges into structured, data-informed strategies and early product concepts."
   }
 ]

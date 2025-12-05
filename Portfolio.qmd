@@ -1,0 +1,137 @@
+---
+title: "Portfolio"
+format: html
+---
+
+## Hi, Welcome!
+
+I build clarity from complexity.
+
+Across my projects, I focus on **understanding users, synthesizing insights, defining problems,** and **creating scalable systems** that enable intuitive experiences — especially for **social, creator-driven, and community-centered products**.
+
+This portfolio highlights how I translate ambiguous challenges into **structured, data-informed strategies** and early **product concepts**.
+
+---
+
+## 🧭 Case Study: [**Saciva**](https://namvien.netlify.app/projects/project%201/project%201){target="_blank"}  
+### Designing User Ecosystem Segmentation to Improve Discovery and Community Formation
+
+**Role:** AI Studio Fellow  
+**Domain:** Social discovery • onboarding flows • segmentation • user insights • operational alignment
+
+---
+
+### 1. Overview
+
+International students navigating the U.S. face fragmented information, unclear local differences, and difficulty building social ties.  
+
+**Saciva** aims to reduce this friction by helping **over one millions international students in the U.S.** discover communities, locations, and resources that match their needs.
+
+My work focused on understanding user ecosystems and developing a **segmentation framework** that supports more personalized and intuitive discovery experiences.
+
+---
+
+### 2. Problem
+
+Students often cannot answer essential questions:
+
+- *Where can I find safe, affordable housing?*  
+- *What areas feel similar to my home environment?*  
+- *Where are people like me?*  
+- *Which regions match my lifestyle and needs?*
+
+Filters alone cannot answer these — they lack context, proximity awareness, and environmental nuance.
+
+Saciva needed a **user-centered, data-driven foundation** for recommendations and onboarding flows.
+
+---
+
+### 3. Goal
+
+Create an ecosystem model that:
+
+- Groups environments in ways students actually perceive them  
+- Supports **personalized discovery** (like TikTok’s For You Page, but for regions)  
+- Reduces cognitive load in relocation decisions  
+- Helps product teams understand user needs at scale  
+
+---
+
+### 4. My Role
+
+I led analytical and product-thinking contributions across:
+
+- User needs exploration  
+- Insight synthesis across multi-source datasets  
+- Evaluation of clustering methods for user-relevant grouping  
+- Early prototype development (interactive cluster maps)  
+- Exchanging findings to the CEO and team for product direction  
+
+---
+
+### 5. Process
+
+#### 🔍 a. User & Environment Research
+
+Synthesized patterns across:
+
+- University locations  
+- Climate  
+- Crime/safety  
+- Cost of living  
+- Income demographics  
+
+**Guiding product question:**  
+*How do these factors shape where students want to live and who they want to connect with?*
+
+---
+
+#### 🧩 b. Segmentation Strategy for Discovery Flows
+
+Evaluated three clustering approaches:
+
+- **DBSCAN**  
+- Mean Shift  
+- Agglomerative clustering  
+
+**DBSCAN** emerged as the strongest performer *(silhouette score: 0.868)*, producing **294 meaningful regional clusters**.
+
+This segmentation created a foundation for:
+
+- Better onboarding (“What areas match your profile?”)  
+- Personalized recommendations  
+- Localized content relevance  
+- Operational planning for community tools  
+
+---
+
+#### 🗺️ c. Prototype: Interactive Ecosystem Map
+
+Built a Folium-based map visualizing:
+
+- 294 environmental segments  
+- Affordability  
+- Climate similarity  
+- Safety patterns  
+- Regional profiles  
+
+This tool improved stakeholder understanding and enabled **faster product ideation** for student discovery flows.
+
+---
+
+### 6. Outcome
+
+- Generated insights that shaped early **product direction** for onboarding and discovery  
+- Developed a segmentation model applicable to **community-building, recommendations, and localized user experiences**  
+- Delivered a prototype that improved stakeholder clarity on user ecosystems  
+- Helped define strategic opportunities for student engagement  
+
+---
+
+### 7. Alignment with TikTok’s Mission & Product Vision
+
+- **Transformed fragmented student challenges into structured insights** by identifying patterns in safety, affordability, climate, and community factors, supporting TikTok’s vision of creating intuitive, accessible experiences rooted in real user needs.
+
+- **Evaluated and selected DBSCAN as the most meaningful segmentation approach** through data-driven reasoning, contributing to the type of scalable understanding of user ecosystems that underpins TikTok’s personalized discovery and community-building features.
+
+- **Developed an interactive ecosystem prototype** that clarified how users navigate their environments and form connections, reflecting TikTok’s commitment to empowering people with tools that help them explore, discover, and build meaningful relationships.
