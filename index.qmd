@@ -18,7 +18,7 @@ about:
       url: "mailto:nam_vien@yahoo.com"
       icon: inbox-fill
     - text: Résume
-      href: "https://docs.google.com/document/d/1EYJYO0CHIWbkjI6b9Utk1_JPPWpXC6a1cThHscfq8Yo/edit?usp=sharing"
+      href: "https://docs.google.com/document/d/1AFEKfJco7e18QmHCoHdxoJ3P5LBWwavfWBhSnGT2Ygc/edit?usp=sharing"
       icon: file-text-fill
     - text: Schedule a Meeting
       href: "https://calendly.com/nam_vien/new-meeting-1"
