@@ -7,7 +7,7 @@ format: html
 
 I build clarity from complexity.
 
-Across my projects, I focus on **understanding users, synthesizing insights, defining problems,** and **creating scalable systems** that enable intuitive experiences — especially for **social, creator-driven, and community-centered products**.
+Across my projects, I focus on **understanding users, synthesizing insights, defining problems,** and **creating scalable systems** that enable intuitive experiences, especially for **social, creator-driven, and community-centered products**.
 
 This portfolio highlights how I translate ambiguous challenges into **structured, data-informed strategies** and early **product concepts**.
 
