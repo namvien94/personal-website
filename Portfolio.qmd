@@ -11,7 +11,6 @@ Across my projects, I focus on **understanding users, synthesizing insights, def
 
 This portfolio highlights how I translate ambiguous challenges into **structured, data-informed strategies** and early **product concepts**.
 
----
 
 ## 🧭 Case Study: [**Saciva**](https://namvien.netlify.app/projects/project%201/project%201){target="_blank"}  
 ### Designing User Ecosystem Segmentation to Improve Discovery and Community Formation
@@ -19,7 +18,6 @@ This portfolio highlights how I translate ambiguous challenges into **structured
 **Role:** AI Studio Fellow  
 **Domain:** Social discovery • onboarding flows • segmentation • user insights • operational alignment
 
----
 
 ### 1. Overview
 
@@ -29,7 +27,6 @@ International students navigating the U.S. face fragmented information, unclear 
 
 My work focused on understanding user ecosystems and developing a **segmentation framework** that supports more personalized and intuitive discovery experiences.
 
----
 
 ### 2. Problem
 
@@ -44,18 +41,16 @@ Filters alone cannot answer these — they lack context, proximity awareness, an
 
 Saciva needed a **user-centered, data-driven foundation** for recommendations and onboarding flows.
 
----
 
 ### 3. Goal
 
 Create an ecosystem model that:
 
 - Groups environments in ways students actually perceive them  
-- Supports **personalized discovery** (like TikTok’s For You Page, but for regions)  
+- Supports **personalized discovery** 
 - Reduces cognitive load in relocation decisions  
 - Helps product teams understand user needs at scale  
 
----
 
 ### 4. My Role
 
@@ -67,7 +62,6 @@ I led analytical and product-thinking contributions across:
 - Early prototype development (interactive cluster maps)  
 - Exchanging findings to the CEO and team for product direction  
 
----
 
 ### 5. Process
 
@@ -84,17 +78,17 @@ Synthesized patterns across:
 **Guiding product question:**  
 *How do these factors shape where students want to live and who they want to connect with?*
 
----
 
 #### 🧩 b. Segmentation Strategy for Discovery Flows
 
-Evaluated three clustering approaches:
+| **Clustering Method** | **Clustering Approaches Evaluation** |
+|-----------------------|----------------------------------------------|
+| **DBSCAN**^[A density-based clustering algorithm that groups nearby points without needing a preset number of clusters.] | **Geographic Insights:**<br><br>DBSCAN reveals **high-density student pockets**, creating many small but meaningful regional clusters:<br><br>• **West Coast microclusters** (Seattle, Bay Area, SoCal) <br>• **Mountain West pockets** (Utah, Colorado) <br>• **Midwest city groups** (Chicago, Minneapolis) <br>• **Northeast metro chain** (Boston → NYC → Philly → DC) <br>• **Southern hubs** (Atlanta, DFW, Houston, Miami) <br>• **Florida as a distinct region** <br>• Gray points = **low-density/noise** points<br><br> <br>![](DBSCAN.png){width="90%"} |
+| **Mean Shift**^[A clustering method that moves data points toward high-density regions to automatically discover cluster centers.] | **Geographic Insights:**<br><br>Mean Shift identifies **regional density peaks**, producing smooth and coherent geographic groupings:<br><br>• **PNW + Northern California** shared corridor <br>• **Southern California** as its own region <br>• **Southwest corridor** (AZ, NM, TX) <br>• **Midwest cluster** (IL, WI, MN) <br>• **East Coast subclusters:** New England, Mid-Atlantic, Southeast <br>• **Florida** as a compact cluster<br><br> <br>![](MeanShift.png){width="90%"} |
+| **Agglomerative Clustering**^[A hierarchical method that merges the closest clusters step-by-step to form structured regional groups.] | **Geographic Insights:**<br><br>Agglomerative produces **clean, contiguous macro-regions**, revealing structured geographic boundaries:<br><br>• **Pacific Northwest**, **Northern California**, **Southern California** as distinct segments <br>• **Unified Southwest region** (AZ, NM, West TX) <br>• **Central U.S. + Texas** region <br>• **Upper Midwest** (MN, WI, MI) <br>• **Mid-Atlantic** and **New England** as stable clusters <br>• **Southeast region** (Carolinas + Georgia) <br>• **Florida** as isolated region<br><br> <br>![](Agglomerative.png){width="90%"} |
 
-- **DBSCAN**  
-- Mean Shift  
-- Agglomerative clustering  
 
-**DBSCAN** emerged as the strongest performer *(silhouette score: 0.868)*, producing **294 meaningful regional clusters**.
+According to the findings, **DBSCAN** emerged as the strongest performer *(silhouette score^[A silhouette score measures how well each data point fits within its assigned cluster, with higher values indicating clearer and more separated groupings.]: 0.868)*, producing **294 meaningful regional clusters**.
 
 This segmentation created a foundation for:
 
@@ -103,7 +97,6 @@ This segmentation created a foundation for:
 - Localized content relevance  
 - Operational planning for community tools  
 
----
 
 #### 🗺️ c. Prototype: Interactive Ecosystem Map
 
@@ -117,7 +110,6 @@ Built a Folium-based map visualizing:
 
 This tool improved stakeholder understanding and enabled **faster product ideation** for student discovery flows.
 
----
 
 ### 6. Outcome
 
@@ -126,7 +118,6 @@ This tool improved stakeholder understanding and enabled **faster product ideati
 - Delivered a prototype that improved stakeholder clarity on user ecosystems  
 - Helped define strategic opportunities for student engagement  
 
----
 
 ### 7. Alignment with TikTok’s Mission & Product Vision
 
